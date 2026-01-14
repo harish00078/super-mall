@@ -16,3 +16,123 @@
 2026-01-14 19:07:55 [INFO]: Fetched 0 products with offers
 2026-01-14 19:07:55 [INFO]: Fetched 0 shops
 2026-01-14 19:07:55 [INFO]: Fetched 0 active offers
+2026-01-14 19:23:54 [INFO]: GET /api/categories
+2026-01-14 19:23:54 [INFO]: GET /api/shops
+2026-01-14 19:23:54 [INFO]: GET /api/products/offers
+2026-01-14 19:23:54 [INFO]: GET /api/offers
+2026-01-14 19:23:54 [INFO]: Fetched 0 categories
+2026-01-14 19:23:54 [INFO]: Fetched 0 shops
+2026-01-14 19:23:54 [INFO]: Fetched 0 active offers
+2026-01-14 19:23:54 [INFO]: Fetched 0 products with offers
+2026-01-14 19:23:54 [INFO]: GET /api/categories
+2026-01-14 19:23:54 [INFO]: GET /api/shops
+2026-01-14 19:23:54 [INFO]: GET /api/offers
+2026-01-14 19:23:54 [INFO]: GET /api/products/offers
+2026-01-14 19:23:54 [INFO]: Fetched 0 active offers
+2026-01-14 19:23:54 [INFO]: Fetched 0 categories
+2026-01-14 19:23:54 [INFO]: Fetched 0 shops
+2026-01-14 19:23:54 [INFO]: Fetched 0 products with offers
+2026-01-14 19:29:05 [INFO]: GET /api/categories
+2026-01-14 19:29:06 [INFO]: GET /api/shops
+2026-01-14 19:29:06 [INFO]: GET /api/products/offers
+2026-01-14 19:29:06 [INFO]: GET /api/offers
+2026-01-14 19:29:06 [INFO]: Fetched 0 categories
+2026-01-14 19:29:06 [INFO]: Fetched 0 shops
+2026-01-14 19:29:06 [INFO]: GET /api/categories
+2026-01-14 19:29:06 [INFO]: GET /api/shops
+2026-01-14 19:29:06 [INFO]: Fetched 0 shops
+2026-01-14 19:29:06 [INFO]: Fetched 0 categories
+2026-01-14 19:29:07 [INFO]: Fetched 0 products with offers
+2026-01-14 19:29:07 [INFO]: Fetched 0 active offers
+2026-01-14 19:29:07 [INFO]: GET /api/products/offers
+2026-01-14 19:29:07 [INFO]: GET /api/offers
+2026-01-14 19:29:07 [INFO]: Fetched 0 products with offers
+2026-01-14 19:29:07 [INFO]: Fetched 0 active offers
+2026-01-14 19:29:18 [INFO]: GET /api/offers
+2026-01-14 19:29:18 [INFO]: Fetched 0 active offers
+2026-01-14 19:29:18 [INFO]: GET /api/offers
+2026-01-14 19:29:18 [INFO]: Fetched 0 active offers
+2026-01-14 19:29:19 [INFO]: GET /api/shops
+2026-01-14 19:29:19 [INFO]: GET /api/categories
+2026-01-14 19:29:19 [INFO]: GET /api/products/offers
+2026-01-14 19:29:19 [INFO]: GET /api/offers
+2026-01-14 19:29:19 [INFO]: Fetched 0 shops
+2026-01-14 19:29:19 [INFO]: GET /api/shops
+2026-01-14 19:29:19 [INFO]: Fetched 0 categories
+2026-01-14 19:29:19 [INFO]: GET /api/categories
+2026-01-14 19:29:19 [INFO]: Fetched 0 products with offers
+2026-01-14 19:29:19 [INFO]: GET /api/products/offers
+2026-01-14 19:29:19 [INFO]: Fetched 0 active offers
+2026-01-14 19:29:19 [INFO]: GET /api/offers
+2026-01-14 19:29:19 [INFO]: Fetched 0 shops
+2026-01-14 19:29:19 [INFO]: Fetched 0 categories
+2026-01-14 19:29:19 [INFO]: Fetched 0 products with offers
+2026-01-14 19:29:19 [INFO]: Fetched 0 active offers
+2026-01-14 19:29:20 [INFO]: GET /api/categories
+2026-01-14 19:29:20 [INFO]: GET /api/floors
+2026-01-14 19:29:20 [INFO]: GET /api/shops
+2026-01-14 19:29:20 [INFO]: Fetched 0 categories
+2026-01-14 19:29:20 [INFO]: GET /api/categories
+2026-01-14 19:29:20 [INFO]: Fetched 0 shops
+2026-01-14 19:29:20 [INFO]: GET /api/shops
+2026-01-14 19:29:20 [INFO]: Fetched 0 floors
+2026-01-14 19:29:20 [INFO]: GET /api/floors
+2026-01-14 19:29:20 [INFO]: Fetched 0 categories
+2026-01-14 19:29:20 [INFO]: Fetched 0 shops
+2026-01-14 19:29:20 [INFO]: Fetched 0 floors
+2026-01-14 19:29:23 [INFO]: GET /api/categories
+2026-01-14 19:29:23 [INFO]: GET /api/shops
+2026-01-14 19:29:23 [INFO]: GET /api/products/offers
+2026-01-14 19:29:23 [INFO]: GET /api/offers
+2026-01-14 19:29:23 [INFO]: Fetched 0 shops
+2026-01-14 19:29:23 [INFO]: GET /api/shops
+2026-01-14 19:29:23 [INFO]: Fetched 0 products with offers
+2026-01-14 19:29:23 [INFO]: Fetched 0 active offers
+2026-01-14 19:29:23 [INFO]: GET /api/products/offers
+2026-01-14 19:29:23 [INFO]: Fetched 0 categories
+2026-01-14 19:29:23 [INFO]: GET /api/offers
+2026-01-14 19:29:23 [INFO]: GET /api/categories
+2026-01-14 19:29:23 [INFO]: Fetched 0 shops
+2026-01-14 19:29:23 [INFO]: Fetched 0 products with offers
+2026-01-14 19:29:23 [INFO]: Fetched 0 categories
+2026-01-14 19:29:23 [INFO]: Fetched 0 active offers
+2026-01-14 19:29:30 [INFO]: GET /api/categories
+2026-01-14 19:29:30 [INFO]: GET /api/shops
+2026-01-14 19:29:30 [INFO]: GET /api/products/offers
+2026-01-14 19:29:30 [INFO]: GET /api/offers
+2026-01-14 19:29:30 [INFO]: Fetched 0 products with offers
+2026-01-14 19:29:30 [INFO]: GET /api/products/offers
+2026-01-14 19:29:30 [INFO]: Fetched 0 categories
+2026-01-14 19:29:30 [INFO]: Fetched 0 shops
+2026-01-14 19:29:30 [INFO]: Fetched 0 active offers
+2026-01-14 19:29:30 [INFO]: GET /api/categories
+2026-01-14 19:29:30 [INFO]: GET /api/shops
+2026-01-14 19:29:30 [INFO]: GET /api/offers
+2026-01-14 19:29:30 [INFO]: Fetched 0 products with offers
+2026-01-14 19:29:30 [INFO]: Fetched 0 categories
+2026-01-14 19:29:31 [INFO]: Fetched 0 shops
+2026-01-14 19:29:31 [INFO]: Fetched 0 active offers
+2026-01-14 19:31:33 [INFO]: GET /api/categories
+2026-01-14 19:31:33 [INFO]: GET /api/shops
+2026-01-14 19:31:33 [INFO]: GET /api/products/offers
+2026-01-14 19:31:33 [INFO]: GET /api/offers
+2026-01-14 19:31:33 [INFO]: Fetched 0 categories
+2026-01-14 19:31:33 [INFO]: Fetched 0 shops
+2026-01-14 19:31:33 [INFO]: Fetched 0 products with offers
+2026-01-14 19:31:33 [INFO]: Fetched 0 active offers
+2026-01-14 20:33:22 [INFO]: GET /api/shops
+2026-01-14 20:33:22 [INFO]: GET /api/categories
+2026-01-14 20:33:22 [INFO]: GET /api/products/offers
+2026-01-14 20:33:22 [INFO]: GET /api/offers
+2026-01-14 20:33:23 [INFO]: Fetched 0 shops
+2026-01-14 20:33:23 [INFO]: Fetched 0 categories
+2026-01-14 20:33:23 [INFO]: GET /api/shops
+2026-01-14 20:33:23 [INFO]: GET /api/categories
+2026-01-14 20:33:23 [INFO]: Fetched 0 shops
+2026-01-14 20:33:23 [INFO]: Fetched 0 categories
+2026-01-14 20:33:23 [INFO]: Fetched 0 active offers
+2026-01-14 20:33:23 [INFO]: GET /api/offers
+2026-01-14 20:33:23 [INFO]: Fetched 0 products with offers
+2026-01-14 20:33:23 [INFO]: GET /api/products/offers
+2026-01-14 20:33:24 [INFO]: Fetched 0 active offers
+2026-01-14 20:33:24 [INFO]: Fetched 0 products with offers
