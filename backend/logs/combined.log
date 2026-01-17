@@ -494,3 +494,19 @@
 2026-01-14 21:43:25 [INFO]: Fetched 3 active offers
 2026-01-14 21:43:25 [INFO]: Fetched 8 products with offers
 2026-01-14 21:43:25 [INFO]: Fetched 8 shops
+2026-01-14 21:43:59 [INFO]: GET /api/categories
+2026-01-14 21:43:59 [INFO]: GET /api/products/offers
+2026-01-14 21:43:59 [INFO]: GET /api/shops
+2026-01-14 21:43:59 [INFO]: GET /api/offers
+2026-01-14 21:43:59 [INFO]: Fetched 8 categories
+2026-01-14 21:43:59 [INFO]: GET /api/categories
+2026-01-14 21:43:59 [INFO]: Fetched 8 shops
+2026-01-14 21:43:59 [INFO]: Fetched 8 categories
+2026-01-14 21:43:59 [INFO]: GET /api/shops
+2026-01-14 21:43:59 [INFO]: Fetched 8 products with offers
+2026-01-14 21:43:59 [INFO]: Fetched 3 active offers
+2026-01-14 21:43:59 [INFO]: GET /api/products/offers
+2026-01-14 21:43:59 [INFO]: GET /api/offers
+2026-01-14 21:43:59 [INFO]: Fetched 8 shops
+2026-01-14 21:43:59 [INFO]: Fetched 3 active offers
+2026-01-14 21:43:59 [INFO]: Fetched 8 products with offers
