@@ -1,0 +1,15 @@
+2026-01-17 18:12:59 [ERROR]: Get shops error: Cast to ObjectId failed for value "electronics" (type string) at path "category" for model "Shop"
+2026-01-17 18:12:59 [ERROR]: Get shops error: Cast to ObjectId failed for value "electronics" (type string) at path "category" for model "Shop"
+2026-01-17 18:13:38 [ERROR]: Get shops error: Cast to ObjectId failed for value "electronics" (type string) at path "category" for model "Shop"
+2026-01-17 18:13:38 [ERROR]: Get shops error: Cast to ObjectId failed for value "electronics" (type string) at path "category" for model "Shop"
+2026-01-17 18:13:44 [ERROR]: Get shops error: Cast to ObjectId failed for value "electronics" (type string) at path "category" for model "Shop"
+2026-01-17 18:13:45 [ERROR]: Get shops error: Cast to ObjectId failed for value "electronics" (type string) at path "category" for model "Shop"
+2026-01-17 18:13:46 [ERROR]: Get shops error: Cast to ObjectId failed for value "electronics" (type string) at path "category" for model "Shop"
+2026-01-17 18:13:47 [ERROR]: Get shops error: Cast to ObjectId failed for value "electronics" (type string) at path "category" for model "Shop"
+2026-01-17 18:13:48 [ERROR]: Get shops error: Cast to ObjectId failed for value "electronics" (type string) at path "category" for model "Shop"
+2026-01-17 18:13:49 [ERROR]: Get shops error: Cast to ObjectId failed for value "electronics" (type string) at path "category" for model "Shop"
+2026-01-17 18:13:49 [ERROR]: Get shops error: Cast to ObjectId failed for value "electronics" (type string) at path "category" for model "Shop"
+2026-01-17 18:15:03 [ERROR]: Get shops error: Cast to ObjectId failed for value "electronics" (type string) at path "category" for model "Shop"
+2026-01-17 18:15:03 [ERROR]: Get shops error: Cast to ObjectId failed for value "electronics" (type string) at path "category" for model "Shop"
+2026-01-17 18:24:33 [ERROR]: MongoDB connection error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.ktlbccs.mongodb.net
+2026-01-17 18:25:07 [ERROR]: MongoDB connection error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.ktlbccs.mongodb.net

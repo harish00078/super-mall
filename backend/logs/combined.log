@@ -510,3 +510,551 @@
 2026-01-14 21:43:59 [INFO]: Fetched 8 shops
 2026-01-14 21:43:59 [INFO]: Fetched 3 active offers
 2026-01-14 21:43:59 [INFO]: Fetched 8 products with offers
+2026-01-17 17:38:20 [INFO]: Super Mall Backend running on port 5001
+2026-01-17 17:38:21 [INFO]: MongoDB connected successfully
+2026-01-17 17:38:45 [INFO]: GET /api/categories
+2026-01-17 17:38:45 [INFO]: GET /api/shops
+2026-01-17 17:38:45 [INFO]: GET /api/offers
+2026-01-17 17:38:46 [INFO]: GET /api/products/offers
+2026-01-17 17:38:46 [INFO]: Fetched 8 categories
+2026-01-17 17:38:46 [INFO]: GET /api/categories
+2026-01-17 17:38:46 [INFO]: Fetched 8 shops
+2026-01-17 17:38:46 [INFO]: GET /api/shops
+2026-01-17 17:38:46 [INFO]: Fetched 4 active offers
+2026-01-17 17:38:46 [INFO]: GET /api/offers
+2026-01-17 17:38:46 [INFO]: Fetched 8 shops
+2026-01-17 17:38:46 [INFO]: Fetched 4 active offers
+2026-01-17 17:38:46 [INFO]: Fetched 8 categories
+2026-01-17 17:38:46 [INFO]: Fetched 8 products with offers
+2026-01-17 17:38:46 [INFO]: GET /api/products/offers
+2026-01-17 17:38:46 [INFO]: Fetched 8 products with offers
+2026-01-17 18:10:24 [INFO]: POST /api/auth/login
+2026-01-17 18:10:25 [INFO]: User logged in successfully: admin@supermall.com
+2026-01-17 18:10:25 [INFO]: GET /api/products
+2026-01-17 18:10:25 [INFO]: GET /api/shops
+2026-01-17 18:10:25 [INFO]: GET /api/floors
+2026-01-17 18:10:25 [INFO]: GET /api/categories
+2026-01-17 18:10:25 [INFO]: GET /api/offers
+2026-01-17 18:10:25 [INFO]: Fetched 8 categories
+2026-01-17 18:10:25 [INFO]: Fetched 4 floors
+2026-01-17 18:10:25 [INFO]: GET /api/categories
+2026-01-17 18:10:25 [INFO]: GET /api/floors
+2026-01-17 18:10:25 [INFO]: Fetched 4 active offers
+2026-01-17 18:10:25 [INFO]: GET /api/offers
+2026-01-17 18:10:25 [INFO]: Fetched 4 floors
+2026-01-17 18:10:25 [INFO]: Fetched 8 categories
+2026-01-17 18:10:25 [INFO]: Fetched 4 active offers
+2026-01-17 18:10:26 [INFO]: Fetched 8 shops
+2026-01-17 18:10:26 [INFO]: Fetched 12 products
+2026-01-17 18:10:26 [INFO]: GET /api/shops
+2026-01-17 18:10:26 [INFO]: GET /api/products
+2026-01-17 18:10:26 [INFO]: Fetched 12 products
+2026-01-17 18:10:26 [INFO]: Fetched 8 shops
+2026-01-17 18:10:32 [INFO]: GET /api/categories
+2026-01-17 18:10:32 [INFO]: GET /api/shops
+2026-01-17 18:10:32 [INFO]: GET /api/offers
+2026-01-17 18:10:32 [INFO]: GET /api/products/offers
+2026-01-17 18:10:32 [INFO]: Fetched 8 categories
+2026-01-17 18:10:32 [INFO]: GET /api/categories
+2026-01-17 18:10:32 [INFO]: Fetched 4 active offers
+2026-01-17 18:10:32 [INFO]: Fetched 8 shops
+2026-01-17 18:10:32 [INFO]: GET /api/offers
+2026-01-17 18:10:32 [INFO]: GET /api/shops
+2026-01-17 18:10:32 [INFO]: Fetched 8 products with offers
+2026-01-17 18:10:32 [INFO]: Fetched 8 categories
+2026-01-17 18:10:32 [INFO]: GET /api/products/offers
+2026-01-17 18:10:32 [INFO]: Fetched 8 shops
+2026-01-17 18:10:32 [INFO]: Fetched 8 products with offers
+2026-01-17 18:10:32 [INFO]: Fetched 4 active offers
+2026-01-17 18:10:35 [INFO]: GET /api/categories
+2026-01-17 18:10:35 [INFO]: GET /api/floors
+2026-01-17 18:10:35 [INFO]: GET /api/shops?category=6967bfa3a03911d28360a339
+2026-01-17 18:10:35 [INFO]: Fetched 4 floors
+2026-01-17 18:10:35 [INFO]: Fetched 8 categories
+2026-01-17 18:10:35 [INFO]: GET /api/floors
+2026-01-17 18:10:35 [INFO]: GET /api/categories
+2026-01-17 18:10:35 [INFO]: Fetched 1 shops
+2026-01-17 18:10:35 [INFO]: GET /api/shops?category=6967bfa3a03911d28360a339
+2026-01-17 18:10:35 [INFO]: Fetched 4 floors
+2026-01-17 18:10:35 [INFO]: Fetched 8 categories
+2026-01-17 18:10:35 [INFO]: Fetched 1 shops
+2026-01-17 18:10:39 [INFO]: GET /api/shops?category=6967bfa3a03911d28360a339&floor=6967bfa4a03911d28360a34b
+2026-01-17 18:10:39 [INFO]: Fetched 1 shops
+2026-01-17 18:10:41 [INFO]: GET /api/shops?category=6967bfa3a03911d28360a339&floor=6967bfa4a03911d28360a34a
+2026-01-17 18:10:41 [INFO]: Fetched 0 shops
+2026-01-17 18:10:43 [INFO]: GET /api/shops?category=6967bfa3a03911d28360a339&floor=6967bfa4a03911d28360a34b
+2026-01-17 18:10:43 [INFO]: Fetched 1 shops
+2026-01-17 18:10:45 [INFO]: GET /api/shops?category=6967bfa3a03911d28360a339&floor=6967bfa4a03911d28360a34a
+2026-01-17 18:10:45 [INFO]: Fetched 0 shops
+2026-01-17 18:10:48 [INFO]: GET /api/shops?category=6967bfa3a03911d28360a339&floor=6967bfa4a03911d28360a34b
+2026-01-17 18:10:48 [INFO]: Fetched 1 shops
+2026-01-17 18:10:48 [INFO]: GET /api/shops?category=6967bfa3a03911d28360a339&floor=6967bfa4a03911d28360a34c
+2026-01-17 18:10:48 [INFO]: Fetched 0 shops
+2026-01-17 18:10:50 [INFO]: GET /api/shops
+2026-01-17 18:10:50 [INFO]: GET /api/categories
+2026-01-17 18:10:50 [INFO]: GET /api/products/offers
+2026-01-17 18:10:50 [INFO]: GET /api/offers
+2026-01-17 18:10:50 [INFO]: Fetched 8 categories
+2026-01-17 18:10:50 [INFO]: GET /api/categories
+2026-01-17 18:10:50 [INFO]: Fetched 4 active offers
+2026-01-17 18:10:50 [INFO]: Fetched 8 shops
+2026-01-17 18:10:50 [INFO]: Fetched 8 categories
+2026-01-17 18:10:50 [INFO]: GET /api/offers
+2026-01-17 18:10:50 [INFO]: Fetched 8 products with offers
+2026-01-17 18:10:50 [INFO]: GET /api/shops
+2026-01-17 18:10:50 [INFO]: GET /api/products/offers
+2026-01-17 18:10:51 [INFO]: Fetched 8 shops
+2026-01-17 18:10:51 [INFO]: Fetched 8 products with offers
+2026-01-17 18:10:51 [INFO]: Fetched 4 active offers
+2026-01-17 18:10:53 [INFO]: GET /api/categories
+2026-01-17 18:10:53 [INFO]: GET /api/shops?category=6967bfa3a03911d28360a33a
+2026-01-17 18:10:53 [INFO]: GET /api/floors
+2026-01-17 18:10:53 [INFO]: Fetched 8 categories
+2026-01-17 18:10:53 [INFO]: GET /api/categories
+2026-01-17 18:10:53 [INFO]: Fetched 4 floors
+2026-01-17 18:10:53 [INFO]: GET /api/floors
+2026-01-17 18:10:53 [INFO]: Fetched 4 floors
+2026-01-17 18:10:53 [INFO]: Fetched 1 shops
+2026-01-17 18:10:53 [INFO]: Fetched 8 categories
+2026-01-17 18:10:53 [INFO]: GET /api/shops?category=6967bfa3a03911d28360a33a
+2026-01-17 18:10:53 [INFO]: Fetched 1 shops
+2026-01-17 18:11:01 [INFO]: GET /api/shops?category=6967bfa3a03911d28360a33a&floor=6967bfa4a03911d28360a34a
+2026-01-17 18:11:01 [INFO]: Fetched 1 shops
+2026-01-17 18:11:04 [INFO]: GET /api/categories
+2026-01-17 18:11:04 [INFO]: GET /api/shops
+2026-01-17 18:11:04 [INFO]: GET /api/products/offers
+2026-01-17 18:11:04 [INFO]: GET /api/offers
+2026-01-17 18:11:04 [INFO]: Fetched 8 categories
+2026-01-17 18:11:04 [INFO]: GET /api/categories
+2026-01-17 18:11:04 [INFO]: Fetched 8 categories
+2026-01-17 18:11:04 [INFO]: Fetched 8 products with offers
+2026-01-17 18:11:04 [INFO]: Fetched 4 active offers
+2026-01-17 18:11:04 [INFO]: GET /api/products/offers
+2026-01-17 18:11:04 [INFO]: GET /api/offers
+2026-01-17 18:11:04 [INFO]: Fetched 8 shops
+2026-01-17 18:11:04 [INFO]: GET /api/shops
+2026-01-17 18:11:04 [INFO]: Fetched 8 products with offers
+2026-01-17 18:11:04 [INFO]: Fetched 4 active offers
+2026-01-17 18:11:04 [INFO]: Fetched 8 shops
+2026-01-17 18:11:14 [INFO]: GET /api/products
+2026-01-17 18:11:14 [INFO]: GET /api/categories
+2026-01-17 18:11:14 [INFO]: GET /api/shops
+2026-01-17 18:11:14 [INFO]: Fetched 8 categories
+2026-01-17 18:11:14 [INFO]: GET /api/categories
+2026-01-17 18:11:14 [INFO]: Fetched 8 shops
+2026-01-17 18:11:14 [INFO]: Fetched 8 categories
+2026-01-17 18:11:14 [INFO]: Fetched 12 products
+2026-01-17 18:11:14 [INFO]: GET /api/shops
+2026-01-17 18:11:14 [INFO]: GET /api/products
+2026-01-17 18:11:15 [INFO]: Fetched 8 shops
+2026-01-17 18:11:15 [INFO]: Fetched 12 products
+2026-01-17 18:11:15 [INFO]: GET /api/categories
+2026-01-17 18:11:15 [INFO]: GET /api/shops
+2026-01-17 18:11:15 [INFO]: GET /api/floors
+2026-01-17 18:11:15 [INFO]: Fetched 8 categories
+2026-01-17 18:11:15 [INFO]: GET /api/categories
+2026-01-17 18:11:15 [INFO]: Fetched 4 floors
+2026-01-17 18:11:15 [INFO]: GET /api/floors
+2026-01-17 18:11:15 [INFO]: Fetched 8 categories
+2026-01-17 18:11:15 [INFO]: Fetched 8 shops
+2026-01-17 18:11:15 [INFO]: Fetched 4 floors
+2026-01-17 18:11:15 [INFO]: GET /api/shops
+2026-01-17 18:11:15 [INFO]: Fetched 8 shops
+2026-01-17 18:11:18 [INFO]: GET /api/categories
+2026-01-17 18:11:18 [INFO]: GET /api/shops
+2026-01-17 18:11:18 [INFO]: GET /api/products
+2026-01-17 18:11:18 [INFO]: Fetched 8 categories
+2026-01-17 18:11:18 [INFO]: GET /api/categories
+2026-01-17 18:11:18 [INFO]: Fetched 8 shops
+2026-01-17 18:11:18 [INFO]: GET /api/shops
+2026-01-17 18:11:18 [INFO]: Fetched 8 categories
+2026-01-17 18:11:18 [INFO]: Fetched 12 products
+2026-01-17 18:11:18 [INFO]: GET /api/products
+2026-01-17 18:11:18 [INFO]: Fetched 8 shops
+2026-01-17 18:11:18 [INFO]: Fetched 12 products
+2026-01-17 18:11:19 [INFO]: GET /api/offers
+2026-01-17 18:11:19 [INFO]: Fetched 4 active offers
+2026-01-17 18:11:19 [INFO]: GET /api/offers
+2026-01-17 18:11:20 [INFO]: Fetched 4 active offers
+2026-01-17 18:11:28 [INFO]: GET /api/categories
+2026-01-17 18:11:28 [INFO]: GET /api/shops
+2026-01-17 18:11:28 [INFO]: GET /api/products/offers
+2026-01-17 18:11:28 [INFO]: GET /api/offers
+2026-01-17 18:11:28 [INFO]: Fetched 8 categories
+2026-01-17 18:11:28 [INFO]: GET /api/categories
+2026-01-17 18:11:28 [INFO]: Fetched 8 shops
+2026-01-17 18:11:28 [INFO]: GET /api/shops
+2026-01-17 18:11:28 [INFO]: Fetched 8 categories
+2026-01-17 18:11:28 [INFO]: Fetched 8 products with offers
+2026-01-17 18:11:28 [INFO]: Fetched 4 active offers
+2026-01-17 18:11:28 [INFO]: GET /api/products/offers
+2026-01-17 18:11:28 [INFO]: GET /api/offers
+2026-01-17 18:11:28 [INFO]: Fetched 4 active offers
+2026-01-17 18:11:28 [INFO]: Fetched 8 products with offers
+2026-01-17 18:11:28 [INFO]: Fetched 8 shops
+2026-01-17 18:11:36 [INFO]: GET /api/offers
+2026-01-17 18:11:36 [INFO]: Fetched 4 active offers
+2026-01-17 18:11:36 [INFO]: GET /api/offers
+2026-01-17 18:11:36 [INFO]: Fetched 4 active offers
+2026-01-17 18:11:45 [INFO]: GET /api/products/offers
+2026-01-17 18:11:45 [INFO]: GET /api/categories
+2026-01-17 18:11:45 [INFO]: GET /api/shops
+2026-01-17 18:11:45 [INFO]: GET /api/offers
+2026-01-17 18:11:45 [INFO]: Fetched 8 categories
+2026-01-17 18:11:45 [INFO]: GET /api/categories
+2026-01-17 18:11:45 [INFO]: Fetched 8 products with offers
+2026-01-17 18:11:45 [INFO]: Fetched 4 active offers
+2026-01-17 18:11:45 [INFO]: Fetched 8 categories
+2026-01-17 18:11:45 [INFO]: Fetched 8 shops
+2026-01-17 18:11:45 [INFO]: GET /api/products/offers
+2026-01-17 18:11:45 [INFO]: GET /api/offers
+2026-01-17 18:11:45 [INFO]: GET /api/shops
+2026-01-17 18:11:45 [INFO]: Fetched 8 products with offers
+2026-01-17 18:11:45 [INFO]: Fetched 8 shops
+2026-01-17 18:11:45 [INFO]: Fetched 4 active offers
+2026-01-17 18:11:46 [INFO]: GET /api/floors
+2026-01-17 18:11:46 [INFO]: Fetched 4 floors
+2026-01-17 18:11:46 [INFO]: GET /api/floors
+2026-01-17 18:11:46 [INFO]: GET /api/shops?floor=6967bfa4a03911d28360a349
+2026-01-17 18:11:46 [INFO]: Fetched 4 floors
+2026-01-17 18:11:46 [INFO]: Fetched 2 shops
+2026-01-17 18:11:46 [INFO]: GET /api/shops?floor=6967bfa4a03911d28360a349
+2026-01-17 18:11:46 [INFO]: Fetched 2 shops
+2026-01-17 18:11:53 [INFO]: GET /api/shops?floor=6967bfa4a03911d28360a34a
+2026-01-17 18:11:53 [INFO]: Fetched 3 shops
+2026-01-17 18:11:55 [INFO]: GET /api/shops
+2026-01-17 18:11:55 [INFO]: GET /api/products
+2026-01-17 18:11:55 [INFO]: GET /api/categories
+2026-01-17 18:11:55 [INFO]: GET /api/floors
+2026-01-17 18:11:56 [INFO]: GET /api/offers
+2026-01-17 18:11:56 [INFO]: Fetched 8 categories
+2026-01-17 18:11:56 [INFO]: Fetched 4 floors
+2026-01-17 18:11:56 [INFO]: GET /api/categories
+2026-01-17 18:11:56 [INFO]: GET /api/floors
+2026-01-17 18:11:56 [INFO]: Fetched 8 shops
+2026-01-17 18:11:56 [INFO]: GET /api/shops
+2026-01-17 18:11:56 [INFO]: Fetched 12 products
+2026-01-17 18:11:56 [INFO]: GET /api/products
+2026-01-17 18:11:56 [INFO]: Fetched 4 floors
+2026-01-17 18:11:56 [INFO]: Fetched 8 categories
+2026-01-17 18:11:56 [INFO]: Fetched 4 active offers
+2026-01-17 18:11:56 [INFO]: GET /api/offers
+2026-01-17 18:11:56 [INFO]: Fetched 8 shops
+2026-01-17 18:11:56 [INFO]: Fetched 12 products
+2026-01-17 18:11:56 [INFO]: Fetched 4 active offers
+2026-01-17 18:12:22 [INFO]: GET /api/categories
+2026-01-17 18:12:22 [INFO]: GET /api/floors
+2026-01-17 18:12:22 [INFO]: GET /api/shops
+2026-01-17 18:12:22 [INFO]: Fetched 8 categories
+2026-01-17 18:12:22 [INFO]: GET /api/categories
+2026-01-17 18:12:22 [INFO]: Fetched 4 floors
+2026-01-17 18:12:22 [INFO]: GET /api/floors
+2026-01-17 18:12:22 [INFO]: Fetched 8 categories
+2026-01-17 18:12:22 [INFO]: Fetched 8 shops
+2026-01-17 18:12:22 [INFO]: Fetched 4 floors
+2026-01-17 18:12:22 [INFO]: GET /api/shops
+2026-01-17 18:12:22 [INFO]: Fetched 8 shops
+2026-01-17 18:12:42 [INFO]: GET /api/shops
+2026-01-17 18:12:42 [INFO]: GET /api/categories
+2026-01-17 18:12:42 [INFO]: GET /api/products
+2026-01-17 18:12:42 [INFO]: Fetched 8 categories
+2026-01-17 18:12:42 [INFO]: GET /api/categories
+2026-01-17 18:12:43 [INFO]: Fetched 8 shops
+2026-01-17 18:12:43 [INFO]: GET /api/shops
+2026-01-17 18:12:43 [INFO]: Fetched 12 products
+2026-01-17 18:12:43 [INFO]: Fetched 8 categories
+2026-01-17 18:12:43 [INFO]: GET /api/products
+2026-01-17 18:12:43 [INFO]: Fetched 8 shops
+2026-01-17 18:12:43 [INFO]: Fetched 12 products
+2026-01-17 18:12:44 [INFO]: GET /api/offers
+2026-01-17 18:12:45 [INFO]: Fetched 4 active offers
+2026-01-17 18:12:45 [INFO]: GET /api/offers
+2026-01-17 18:12:45 [INFO]: Fetched 4 active offers
+2026-01-17 18:12:49 [INFO]: GET /api/categories
+2026-01-17 18:12:49 [INFO]: GET /api/shops
+2026-01-17 18:12:49 [INFO]: GET /api/products
+2026-01-17 18:12:50 [INFO]: Fetched 8 categories
+2026-01-17 18:12:50 [INFO]: GET /api/categories
+2026-01-17 18:12:50 [INFO]: Fetched 8 shops
+2026-01-17 18:12:50 [INFO]: Fetched 12 products
+2026-01-17 18:12:50 [INFO]: GET /api/shops
+2026-01-17 18:12:50 [INFO]: Fetched 8 categories
+2026-01-17 18:12:50 [INFO]: GET /api/products
+2026-01-17 18:12:50 [INFO]: Fetched 8 shops
+2026-01-17 18:12:50 [INFO]: Fetched 12 products
+2026-01-17 18:12:52 [INFO]: GET /api/floors
+2026-01-17 18:12:52 [INFO]: Fetched 4 floors
+2026-01-17 18:12:52 [INFO]: GET /api/floors
+2026-01-17 18:12:52 [INFO]: GET /api/shops?floor=6967bfa4a03911d28360a349
+2026-01-17 18:12:52 [INFO]: Fetched 4 floors
+2026-01-17 18:12:52 [INFO]: Fetched 2 shops
+2026-01-17 18:12:52 [INFO]: GET /api/shops?floor=6967bfa4a03911d28360a349
+2026-01-17 18:12:52 [INFO]: Fetched 2 shops
+2026-01-17 18:12:59 [INFO]: GET /api/categories
+2026-01-17 18:12:59 [INFO]: GET /api/shops?category=electronics
+2026-01-17 18:12:59 [ERROR]: Get shops error: Cast to ObjectId failed for value "electronics" (type string) at path "category" for model "Shop"
+2026-01-17 18:12:59 [INFO]: GET /api/floors
+2026-01-17 18:12:59 [INFO]: GET /api/shops?category=electronics
+2026-01-17 18:12:59 [ERROR]: Get shops error: Cast to ObjectId failed for value "electronics" (type string) at path "category" for model "Shop"
+2026-01-17 18:12:59 [INFO]: Fetched 8 categories
+2026-01-17 18:12:59 [INFO]: Fetched 4 floors
+2026-01-17 18:12:59 [INFO]: GET /api/categories
+2026-01-17 18:12:59 [INFO]: GET /api/floors
+2026-01-17 18:12:59 [INFO]: Fetched 8 categories
+2026-01-17 18:12:59 [INFO]: Fetched 4 floors
+2026-01-17 18:13:15 [INFO]: GET /api/categories
+2026-01-17 18:13:15 [INFO]: GET /api/shops
+2026-01-17 18:13:15 [INFO]: GET /api/products/offers
+2026-01-17 18:13:15 [INFO]: GET /api/offers
+2026-01-17 18:13:15 [INFO]: Fetched 8 categories
+2026-01-17 18:13:15 [INFO]: GET /api/categories
+2026-01-17 18:13:15 [INFO]: Fetched 8 shops
+2026-01-17 18:13:15 [INFO]: GET /api/shops
+2026-01-17 18:13:15 [INFO]: Fetched 8 products with offers
+2026-01-17 18:13:15 [INFO]: GET /api/products/offers
+2026-01-17 18:13:15 [INFO]: Fetched 8 categories
+2026-01-17 18:13:15 [INFO]: Fetched 4 active offers
+2026-01-17 18:13:15 [INFO]: GET /api/offers
+2026-01-17 18:13:15 [INFO]: Fetched 8 shops
+2026-01-17 18:13:15 [INFO]: Fetched 8 products with offers
+2026-01-17 18:13:15 [INFO]: Fetched 4 active offers
+2026-01-17 18:13:23 [INFO]: GET /api/shops
+2026-01-17 18:13:23 [INFO]: GET /api/products/offers
+2026-01-17 18:13:23 [INFO]: GET /api/offers
+2026-01-17 18:13:23 [INFO]: GET /api/categories
+2026-01-17 18:13:24 [INFO]: Fetched 8 categories
+2026-01-17 18:13:24 [INFO]: GET /api/categories
+2026-01-17 18:13:24 [INFO]: Fetched 8 shops
+2026-01-17 18:13:24 [INFO]: GET /api/shops
+2026-01-17 18:13:24 [INFO]: Fetched 8 products with offers
+2026-01-17 18:13:24 [INFO]: GET /api/products/offers
+2026-01-17 18:13:24 [INFO]: Fetched 4 active offers
+2026-01-17 18:13:24 [INFO]: Fetched 8 categories
+2026-01-17 18:13:24 [INFO]: GET /api/offers
+2026-01-17 18:13:24 [INFO]: Fetched 8 shops
+2026-01-17 18:13:24 [INFO]: Fetched 8 products with offers
+2026-01-17 18:13:24 [INFO]: Fetched 4 active offers
+2026-01-17 18:13:38 [INFO]: GET /api/categories
+2026-01-17 18:13:38 [INFO]: GET /api/shops?category=electronics
+2026-01-17 18:13:38 [ERROR]: Get shops error: Cast to ObjectId failed for value "electronics" (type string) at path "category" for model "Shop"
+2026-01-17 18:13:38 [INFO]: GET /api/floors
+2026-01-17 18:13:38 [INFO]: GET /api/shops?category=electronics
+2026-01-17 18:13:38 [ERROR]: Get shops error: Cast to ObjectId failed for value "electronics" (type string) at path "category" for model "Shop"
+2026-01-17 18:13:38 [INFO]: Fetched 8 categories
+2026-01-17 18:13:38 [INFO]: GET /api/categories
+2026-01-17 18:13:38 [INFO]: Fetched 4 floors
+2026-01-17 18:13:38 [INFO]: GET /api/floors
+2026-01-17 18:13:38 [INFO]: Fetched 8 categories
+2026-01-17 18:13:38 [INFO]: Fetched 4 floors
+2026-01-17 18:13:44 [INFO]: GET /api/shops?category=electronics&floor=6967bfa4a03911d28360a34a
+2026-01-17 18:13:44 [ERROR]: Get shops error: Cast to ObjectId failed for value "electronics" (type string) at path "category" for model "Shop"
+2026-01-17 18:13:45 [INFO]: GET /api/shops?category=electronics&floor=6967bfa4a03911d28360a34b
+2026-01-17 18:13:45 [ERROR]: Get shops error: Cast to ObjectId failed for value "electronics" (type string) at path "category" for model "Shop"
+2026-01-17 18:13:46 [INFO]: GET /api/shops?category=electronics&floor=6967bfa4a03911d28360a34c
+2026-01-17 18:13:46 [ERROR]: Get shops error: Cast to ObjectId failed for value "electronics" (type string) at path "category" for model "Shop"
+2026-01-17 18:13:47 [INFO]: GET /api/shops?category=electronics&floor=6967bfa4a03911d28360a34b
+2026-01-17 18:13:47 [ERROR]: Get shops error: Cast to ObjectId failed for value "electronics" (type string) at path "category" for model "Shop"
+2026-01-17 18:13:48 [INFO]: GET /api/shops?category=electronics&floor=6967bfa4a03911d28360a34a
+2026-01-17 18:13:48 [ERROR]: Get shops error: Cast to ObjectId failed for value "electronics" (type string) at path "category" for model "Shop"
+2026-01-17 18:13:49 [INFO]: GET /api/shops?category=electronics&floor=6967bfa4a03911d28360a349
+2026-01-17 18:13:49 [ERROR]: Get shops error: Cast to ObjectId failed for value "electronics" (type string) at path "category" for model "Shop"
+2026-01-17 18:13:49 [INFO]: GET /api/shops?category=electronics
+2026-01-17 18:13:49 [ERROR]: Get shops error: Cast to ObjectId failed for value "electronics" (type string) at path "category" for model "Shop"
+2026-01-17 18:13:52 [INFO]: GET /api/products/offers
+2026-01-17 18:13:52 [INFO]: GET /api/categories
+2026-01-17 18:13:52 [INFO]: GET /api/shops
+2026-01-17 18:13:52 [INFO]: GET /api/offers
+2026-01-17 18:13:52 [INFO]: Fetched 8 categories
+2026-01-17 18:13:52 [INFO]: GET /api/categories
+2026-01-17 18:13:52 [INFO]: Fetched 8 products with offers
+2026-01-17 18:13:52 [INFO]: Fetched 4 active offers
+2026-01-17 18:13:52 [INFO]: GET /api/products/offers
+2026-01-17 18:13:52 [INFO]: GET /api/offers
+2026-01-17 18:13:52 [INFO]: Fetched 8 categories
+2026-01-17 18:13:52 [INFO]: Fetched 8 shops
+2026-01-17 18:13:52 [INFO]: GET /api/shops
+2026-01-17 18:13:52 [INFO]: Fetched 8 products with offers
+2026-01-17 18:13:52 [INFO]: Fetched 4 active offers
+2026-01-17 18:13:52 [INFO]: Fetched 8 shops
+2026-01-17 18:14:00 [INFO]: GET /api/categories
+2026-01-17 18:14:00 [INFO]: GET /api/shops
+2026-01-17 18:14:00 [INFO]: GET /api/products/offers
+2026-01-17 18:14:00 [INFO]: GET /api/offers
+2026-01-17 18:14:00 [INFO]: Fetched 8 categories
+2026-01-17 18:14:00 [INFO]: GET /api/categories
+2026-01-17 18:14:00 [INFO]: Fetched 8 categories
+2026-01-17 18:14:00 [INFO]: Fetched 4 active offers
+2026-01-17 18:14:00 [INFO]: Fetched 8 shops
+2026-01-17 18:14:00 [INFO]: GET /api/offers
+2026-01-17 18:14:00 [INFO]: Fetched 8 products with offers
+2026-01-17 18:14:00 [INFO]: GET /api/shops
+2026-01-17 18:14:00 [INFO]: GET /api/products/offers
+2026-01-17 18:14:00 [INFO]: Fetched 4 active offers
+2026-01-17 18:14:00 [INFO]: Fetched 8 shops
+2026-01-17 18:14:00 [INFO]: Fetched 8 products with offers
+2026-01-17 18:14:04 [INFO]: GET /api/categories
+2026-01-17 18:14:04 [INFO]: GET /api/shops
+2026-01-17 18:14:04 [INFO]: GET /api/products?hasOffer=true
+2026-01-17 18:14:04 [INFO]: Fetched 8 categories
+2026-01-17 18:14:04 [INFO]: GET /api/categories
+2026-01-17 18:14:04 [INFO]: Fetched 8 shops
+2026-01-17 18:14:04 [INFO]: GET /api/shops
+2026-01-17 18:14:04 [INFO]: Fetched 8 categories
+2026-01-17 18:14:04 [INFO]: Fetched 8 products
+2026-01-17 18:14:04 [INFO]: GET /api/products?hasOffer=true
+2026-01-17 18:14:04 [INFO]: Fetched 8 shops
+2026-01-17 18:14:04 [INFO]: Fetched 8 products
+2026-01-17 18:14:07 [INFO]: GET /api/categories
+2026-01-17 18:14:07 [INFO]: GET /api/products?hasOffer=true
+2026-01-17 18:14:07 [INFO]: GET /api/shops
+2026-01-17 18:14:07 [INFO]: Fetched 8 categories
+2026-01-17 18:14:07 [INFO]: GET /api/categories
+2026-01-17 18:14:08 [INFO]: Fetched 8 categories
+2026-01-17 18:14:08 [INFO]: Fetched 8 products
+2026-01-17 18:14:08 [INFO]: Fetched 8 shops
+2026-01-17 18:14:08 [INFO]: GET /api/products?hasOffer=true
+2026-01-17 18:14:08 [INFO]: GET /api/shops
+2026-01-17 18:14:08 [INFO]: Fetched 8 shops
+2026-01-17 18:14:08 [INFO]: Fetched 8 products
+2026-01-17 18:15:00 [INFO]: GET /api/products
+2026-01-17 18:15:00 [INFO]: Fetched 12 products
+2026-01-17 18:15:03 [INFO]: GET /api/shops?category=electronics
+2026-01-17 18:15:03 [ERROR]: Get shops error: Cast to ObjectId failed for value "electronics" (type string) at path "category" for model "Shop"
+2026-01-17 18:15:03 [INFO]: GET /api/floors
+2026-01-17 18:15:03 [INFO]: GET /api/shops?category=electronics
+2026-01-17 18:15:03 [ERROR]: Get shops error: Cast to ObjectId failed for value "electronics" (type string) at path "category" for model "Shop"
+2026-01-17 18:15:03 [INFO]: GET /api/categories
+2026-01-17 18:15:03 [INFO]: Fetched 4 floors
+2026-01-17 18:15:03 [INFO]: Fetched 8 categories
+2026-01-17 18:15:03 [INFO]: GET /api/floors
+2026-01-17 18:15:03 [INFO]: GET /api/categories
+2026-01-17 18:15:03 [INFO]: Fetched 4 floors
+2026-01-17 18:15:03 [INFO]: Fetched 8 categories
+2026-01-17 18:15:07 [INFO]: GET /api/shops
+2026-01-17 18:15:07 [INFO]: GET /api/categories
+2026-01-17 18:15:07 [INFO]: GET /api/products
+2026-01-17 18:15:07 [INFO]: GET /api/floors
+2026-01-17 18:15:07 [INFO]: GET /api/offers
+2026-01-17 18:15:08 [INFO]: Fetched 4 floors
+2026-01-17 18:15:08 [INFO]: Fetched 8 categories
+2026-01-17 18:15:08 [INFO]: GET /api/floors
+2026-01-17 18:15:08 [INFO]: GET /api/categories
+2026-01-17 18:15:08 [INFO]: Fetched 12 products
+2026-01-17 18:15:08 [INFO]: GET /api/products
+2026-01-17 18:15:08 [INFO]: Fetched 8 shops
+2026-01-17 18:15:08 [INFO]: Fetched 4 active offers
+2026-01-17 18:15:08 [INFO]: GET /api/shops
+2026-01-17 18:15:08 [INFO]: GET /api/offers
+2026-01-17 18:15:08 [INFO]: Fetched 4 floors
+2026-01-17 18:15:08 [INFO]: Fetched 8 categories
+2026-01-17 18:15:08 [INFO]: Fetched 12 products
+2026-01-17 18:15:08 [INFO]: Fetched 4 active offers
+2026-01-17 18:15:08 [INFO]: Fetched 8 shops
+2026-01-17 18:15:21 [INFO]: GET /api/products/offers
+2026-01-17 18:15:22 [INFO]: GET /api/categories
+2026-01-17 18:15:22 [INFO]: GET /api/shops
+2026-01-17 18:15:22 [INFO]: GET /api/offers
+2026-01-17 18:15:22 [INFO]: Fetched 8 categories
+2026-01-17 18:15:22 [INFO]: GET /api/categories
+2026-01-17 18:15:22 [INFO]: Fetched 8 shops
+2026-01-17 18:15:22 [INFO]: GET /api/shops
+2026-01-17 18:15:22 [INFO]: Fetched 4 active offers
+2026-01-17 18:15:22 [INFO]: GET /api/offers
+2026-01-17 18:15:22 [INFO]: Fetched 8 products with offers
+2026-01-17 18:15:22 [INFO]: Fetched 8 categories
+2026-01-17 18:15:22 [INFO]: GET /api/products/offers
+2026-01-17 18:15:22 [INFO]: Fetched 8 shops
+2026-01-17 18:15:22 [INFO]: Fetched 8 products with offers
+2026-01-17 18:15:22 [INFO]: Fetched 4 active offers
+2026-01-17 18:21:23 [INFO]: GET /api/categories
+2026-01-17 18:21:23 [INFO]: GET /api/products/offers
+2026-01-17 18:21:23 [INFO]: GET /api/shops
+2026-01-17 18:21:23 [INFO]: GET /api/offers
+2026-01-17 18:21:24 [INFO]: Fetched 8 categories
+2026-01-17 18:21:24 [INFO]: GET /api/categories
+2026-01-17 18:21:24 [INFO]: Fetched 8 categories
+2026-01-17 18:21:24 [INFO]: Fetched 8 products with offers
+2026-01-17 18:21:24 [INFO]: Fetched 8 shops
+2026-01-17 18:21:24 [INFO]: Fetched 4 active offers
+2026-01-17 18:21:24 [INFO]: GET /api/products/offers
+2026-01-17 18:21:24 [INFO]: GET /api/shops
+2026-01-17 18:21:24 [INFO]: GET /api/offers
+2026-01-17 18:21:24 [INFO]: Fetched 8 shops
+2026-01-17 18:21:24 [INFO]: Fetched 4 active offers
+2026-01-17 18:21:24 [INFO]: Fetched 8 products with offers
+2026-01-17 18:21:27 [INFO]: GET /api/shops/6967bfa4a03911d28360a355
+2026-01-17 18:21:27 [INFO]: GET /api/products?shop=6967bfa4a03911d28360a355
+2026-01-17 18:21:27 [INFO]: Fetched 1 products
+2026-01-17 18:21:27 [INFO]: GET /api/products?shop=6967bfa4a03911d28360a355
+2026-01-17 18:21:27 [INFO]: Fetched shop: Home Elegance
+2026-01-17 18:21:27 [INFO]: GET /api/shops/6967bfa4a03911d28360a355
+2026-01-17 18:21:27 [INFO]: Fetched 1 products
+2026-01-17 18:21:27 [INFO]: Fetched shop: Home Elegance
+2026-01-17 18:21:31 [INFO]: GET /api/products/offers
+2026-01-17 18:21:32 [INFO]: GET /api/categories
+2026-01-17 18:21:32 [INFO]: GET /api/shops
+2026-01-17 18:21:32 [INFO]: GET /api/offers
+2026-01-17 18:21:32 [INFO]: Fetched 8 categories
+2026-01-17 18:21:32 [INFO]: GET /api/categories
+2026-01-17 18:21:32 [INFO]: Fetched 8 products with offers
+2026-01-17 18:21:32 [INFO]: GET /api/products/offers
+2026-01-17 18:21:32 [INFO]: Fetched 8 shops
+2026-01-17 18:21:32 [INFO]: Fetched 4 active offers
+2026-01-17 18:21:32 [INFO]: GET /api/shops
+2026-01-17 18:21:32 [INFO]: GET /api/offers
+2026-01-17 18:21:32 [INFO]: Fetched 8 categories
+2026-01-17 18:21:32 [INFO]: Fetched 8 products with offers
+2026-01-17 18:21:32 [INFO]: Fetched 8 shops
+2026-01-17 18:21:32 [INFO]: Fetched 4 active offers
+2026-01-17 18:22:09 [INFO]: GET /api/shops/6967bfa4a03911d28360a354
+2026-01-17 18:22:09 [INFO]: GET /api/products?shop=6967bfa4a03911d28360a354
+2026-01-17 18:22:09 [INFO]: Fetched shop: SportsMart
+2026-01-17 18:22:09 [INFO]: GET /api/shops/6967bfa4a03911d28360a354
+2026-01-17 18:22:09 [INFO]: Fetched 2 products
+2026-01-17 18:22:09 [INFO]: GET /api/products?shop=6967bfa4a03911d28360a354
+2026-01-17 18:22:09 [INFO]: Fetched shop: SportsMart
+2026-01-17 18:22:09 [INFO]: Fetched 2 products
+2026-01-17 18:22:15 [INFO]: GET /api/shops/6967bfa4a03911d28360a354
+2026-01-17 18:22:15 [INFO]: GET /api/products?shop=6967bfa4a03911d28360a354
+2026-01-17 18:22:15 [INFO]: Fetched 2 products
+2026-01-17 18:22:15 [INFO]: Fetched shop: SportsMart
+2026-01-17 18:22:15 [INFO]: GET /api/products?shop=6967bfa4a03911d28360a354
+2026-01-17 18:22:15 [INFO]: GET /api/shops/6967bfa4a03911d28360a354
+2026-01-17 18:22:15 [INFO]: Fetched shop: SportsMart
+2026-01-17 18:22:15 [INFO]: Fetched 2 products
+2026-01-17 18:22:19 [INFO]: GET /api/products/offers
+2026-01-17 18:22:19 [INFO]: GET /api/categories
+2026-01-17 18:22:19 [INFO]: GET /api/shops
+2026-01-17 18:22:19 [INFO]: GET /api/offers
+2026-01-17 18:22:19 [INFO]: Fetched 8 categories
+2026-01-17 18:22:19 [INFO]: GET /api/categories
+2026-01-17 18:22:20 [INFO]: Fetched 8 products with offers
+2026-01-17 18:22:20 [INFO]: GET /api/products/offers
+2026-01-17 18:22:20 [INFO]: Fetched 8 shops
+2026-01-17 18:22:20 [INFO]: Fetched 8 categories
+2026-01-17 18:22:20 [INFO]: Fetched 4 active offers
+2026-01-17 18:22:20 [INFO]: GET /api/shops
+2026-01-17 18:22:20 [INFO]: GET /api/offers
+2026-01-17 18:22:20 [INFO]: Fetched 4 active offers
+2026-01-17 18:22:20 [INFO]: Fetched 8 shops
+2026-01-17 18:22:20 [INFO]: Fetched 8 products with offers
+2026-01-17 18:24:33 [INFO]: Super Mall Backend running on port 5001
+2026-01-17 18:25:07 [INFO]: Super Mall Backend running on port 5001
+2026-01-17 18:27:32 [INFO]: Super Mall Backend running on port 5001
+2026-01-17 18:27:35 [INFO]: MongoDB connected successfully
+2026-01-17 18:27:44 [INFO]: GET /api/products/offers
+2026-01-17 18:27:44 [INFO]: GET /api/categories
+2026-01-17 18:27:44 [INFO]: GET /api/offers
+2026-01-17 18:27:44 [INFO]: GET /api/shops
+2026-01-17 18:27:44 [INFO]: Fetched 8 categories
+2026-01-17 18:27:44 [INFO]: GET /api/categories
+2026-01-17 18:27:44 [INFO]: Fetched 8 categories
+2026-01-17 18:27:44 [INFO]: Fetched 4 active offers
+2026-01-17 18:27:44 [INFO]: GET /api/offers
+2026-01-17 18:27:44 [INFO]: Fetched 4 active offers
+2026-01-17 18:27:44 [INFO]: Fetched 8 products with offers
+2026-01-17 18:27:44 [INFO]: Fetched 8 shops
+2026-01-17 18:27:44 [INFO]: GET /api/products/offers
+2026-01-17 18:27:44 [INFO]: GET /api/shops
+2026-01-17 18:27:45 [INFO]: Fetched 8 shops
+2026-01-17 18:27:45 [INFO]: Fetched 8 products with offers

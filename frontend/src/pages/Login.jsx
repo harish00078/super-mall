@@ -29,31 +29,96 @@ export default function Login() {
   };
 
   return (
-    <div style={{ minHeight: "calc(100vh - 80px)", display: "flex", alignItems: "center", justifyContent: "center", padding: "2rem", background: "var(--gray-50)" }}>
-      <div style={{ width: "100%", maxWidth: "440px", background: "white", borderRadius: "var(--radius-2xl)", boxShadow: "var(--shadow-xl)" }}>
-        <div style={{ background: "var(--gradient-primary)", padding: "2.5rem", textAlign: "center", color: "white" }}>
-          <h1 style={{ fontSize: "1.75rem", fontWeight: 800, marginBottom: "0.5rem" }}>Welcome Back</h1>
+    <div
+      style={{
+        minHeight: "calc(100vh - 80px)",
+        display: "flex",
+        alignItems: "center",
+        justifyContent: "center",
+        padding: "2rem",
+        background: "var(--gray-50)",
+      }}
+    >
+      <div
+        style={{
+          width: "100%",
+          maxWidth: "440px",
+          background: "white",
+          borderRadius: "var(--radius-2xl)",
+          boxShadow: "var(--shadow-xl)",
+        }}
+      >
+        <div
+          style={{
+            background: "var(--gradient-primary)",
+            padding: "2.5rem",
+            textAlign: "center",
+            color: "white",
+          }}
+        >
+          <h1
+            style={{
+              fontSize: "1.75rem",
+              fontWeight: 800,
+              marginBottom: "0.5rem",
+            }}
+          >
+            Welcome Back
+          </h1>
           <p style={{ opacity: 0.9 }}>Sign in to continue to Super Mall</p>
         </div>
         <form onSubmit={handleSubmit} style={{ padding: "2rem" }}>
           <div className="form-group">
             <label className="form-label">Email Address</label>
-            <input type="email" name="email" className="form-input" placeholder="Enter your email" value={formData.email} onChange={handleChange} required />
+            <input
+              type="email"
+              name="email"
+              className="form-input"
+              placeholder="Enter your email"
+              value={formData.email}
+              onChange={handleChange}
+              required
+            />
           </div>
           <div className="form-group">
             <label className="form-label">Password</label>
-            <input type="password" name="password" className="form-input" placeholder="Enter your password" value={formData.password} onChange={handleChange} required />
+            <input
+              type="password"
+              name="password"
+              className="form-input"
+              placeholder="Enter your password"
+              value={formData.password}
+              onChange={handleChange}
+              required
+            />
           </div>
-          <button type="submit" className="btn btn--primary btn--full btn--lg" disabled={loading} style={{ marginTop: "1rem" }}>
+          <button
+            type="submit"
+            className="btn btn--primary btn--full btn--lg"
+            disabled={loading}
+            style={{ marginTop: "1rem" }}
+          >
             {loading ? "Signing in..." : "Sign In"} <FiArrowRight />
           </button>
-          <p style={{ textAlign: "center", marginTop: "1.5rem", color: "var(--gray-500)" }}>
-            Don't have an account? <Link to="/register" style={{ color: "var(--primary-600)", fontWeight: 600 }}>Sign up</Link>
+          <p
+            style={{
+              textAlign: "center",
+              marginTop: "1.5rem",
+              color: "var(--gray-500)",
+            }}
+          >
+            Don't have an account?{" "}
+            <Link
+              to="/register"
+              style={{ color: "var(--primary-600)", fontWeight: 600 }}
+            >
+              Sign up
+            </Link>
           </p>
         </form>
-        <div style={{ padding: "1.5rem 2rem", background: "var(--gray-50)", borderTop: "1px solid var(--gray-100)" }}>
+        {/* <div style={{ padding: "1.5rem 2rem", background: "var(--gray-50)", borderTop: "1px solid var(--gray-100)" }}>
           <p style={{ fontSize: "0.875rem", color: "var(--gray-500)" }}>Demo: admin@supermall.com / admin123</p>
-        </div>
+        </div> */}
       </div>
     </div>
   );

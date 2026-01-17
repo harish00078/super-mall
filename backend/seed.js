@@ -457,4 +457,30 @@ const seedData = async () => {
   }
 };
 
-seedData();
+const checkAndCreateAdmin = async () => {
+  try {
+    const adminExists = await User.findOne({ role: "admin" });
+    if (adminExists) {
+      console.log("Admin account already exists.");
+      return;
+    }
+
+    await User.create({
+      name: "Admin User",
+      email: "admin@supermall.com",
+      password: "admin123",
+      role: "admin",
+    });
+    console.log("Admin account created successfully.");
+    console.log("Email: admin@supermall.com");
+    console.log("Password: admin123");
+  } catch (error) {
+    console.error("Error checking/creating admin:", error);
+  }
+};
+
+if (require.main === module) {
+  seedData();
+}
+
+module.exports = { seedData, checkAndCreateAdmin };

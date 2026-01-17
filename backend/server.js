@@ -4,6 +4,7 @@ const cors = require("cors");
 require("dotenv").config();
 
 const logger = require("./middleware/logger");
+const { checkAndCreateAdmin } = require("./seed");
 
 const app = express();
 
@@ -22,6 +23,7 @@ mongoose
   .connect(process.env.MONGO_URI)
   .then(() => {
     logger.info("MongoDB connected successfully");
+    checkAndCreateAdmin();
   })
   .catch((err) => {
     logger.error(`MongoDB connection error: ${err.message}`);
