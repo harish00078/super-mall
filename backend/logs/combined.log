@@ -1058,3 +1058,282 @@
 2026-01-17 18:27:44 [INFO]: GET /api/shops
 2026-01-17 18:27:45 [INFO]: Fetched 8 shops
 2026-01-17 18:27:45 [INFO]: Fetched 8 products with offers
+2026-01-17 18:30:01 [INFO]: GET /api/categories
+2026-01-17 18:30:01 [INFO]: GET /api/shops
+2026-01-17 18:30:01 [INFO]: GET /api/products
+2026-01-17 18:30:01 [INFO]: Fetched 8 categories
+2026-01-17 18:30:01 [INFO]: GET /api/categories
+2026-01-17 18:30:01 [INFO]: Fetched 8 shops
+2026-01-17 18:30:01 [INFO]: GET /api/shops
+2026-01-17 18:30:01 [INFO]: Fetched 8 categories
+2026-01-17 18:30:01 [INFO]: Fetched 8 shops
+2026-01-17 18:30:02 [INFO]: Fetched 12 products
+2026-01-17 18:30:02 [INFO]: GET /api/products
+2026-01-17 18:30:02 [INFO]: Fetched 12 products
+2026-01-17 18:30:54 [INFO]: GET /api/offers
+2026-01-17 18:30:54 [INFO]: Fetched 4 active offers
+2026-01-17 18:30:54 [INFO]: GET /api/offers
+2026-01-17 18:30:54 [INFO]: Fetched 4 active offers
+2026-01-17 18:31:00 [INFO]: GET /api/categories
+2026-01-17 18:31:00 [INFO]: GET /api/shops
+2026-01-17 18:31:00 [INFO]: GET /api/products
+2026-01-17 18:31:00 [INFO]: Fetched 8 categories
+2026-01-17 18:31:00 [INFO]: GET /api/categories
+2026-01-17 18:31:00 [INFO]: Fetched 8 categories
+2026-01-17 18:31:00 [INFO]: Fetched 8 shops
+2026-01-17 18:31:00 [INFO]: GET /api/shops
+2026-01-17 18:31:00 [INFO]: Fetched 12 products
+2026-01-17 18:31:00 [INFO]: GET /api/products
+2026-01-17 18:31:00 [INFO]: Fetched 8 shops
+2026-01-17 18:31:00 [INFO]: Fetched 12 products
+2026-01-17 18:36:54 [INFO]: GET /api/floors
+2026-01-17 18:36:54 [INFO]: Fetched 4 floors
+2026-01-17 18:36:54 [INFO]: GET /api/floors
+2026-01-17 18:36:54 [INFO]: GET /api/shops?floor=6967bfa4a03911d28360a349
+2026-01-17 18:36:54 [INFO]: Fetched 4 floors
+2026-01-17 18:36:54 [INFO]: Fetched 2 shops
+2026-01-17 18:36:55 [INFO]: GET /api/shops?floor=6967bfa4a03911d28360a349
+2026-01-17 18:36:55 [INFO]: Fetched 2 shops
+2026-01-17 18:36:58 [INFO]: GET /api/shops
+2026-01-17 18:36:58 [INFO]: GET /api/products
+2026-01-17 18:36:58 [INFO]: GET /api/floors
+2026-01-17 18:36:58 [INFO]: GET /api/categories
+2026-01-17 18:36:58 [INFO]: GET /api/offers
+2026-01-17 18:36:58 [INFO]: Fetched 4 floors
+2026-01-17 18:36:58 [INFO]: Fetched 8 categories
+2026-01-17 18:36:58 [INFO]: GET /api/floors
+2026-01-17 18:36:58 [INFO]: GET /api/categories
+2026-01-17 18:36:58 [INFO]: Fetched 8 shops
+2026-01-17 18:36:58 [INFO]: GET /api/shops
+2026-01-17 18:36:58 [INFO]: Fetched 4 active offers
+2026-01-17 18:36:58 [INFO]: Fetched 4 floors
+2026-01-17 18:36:58 [INFO]: Fetched 8 categories
+2026-01-17 18:36:58 [INFO]: GET /api/offers
+2026-01-17 18:36:58 [INFO]: Fetched 8 shops
+2026-01-17 18:36:59 [INFO]: Fetched 4 active offers
+2026-01-17 18:36:59 [INFO]: Fetched 12 products
+2026-01-17 18:36:59 [INFO]: GET /api/products
+2026-01-17 18:36:59 [INFO]: Fetched 12 products
+2026-01-17 18:37:19 [INFO]: DELETE /api/shops/6967bfa4a03911d28360a351
+2026-01-17 18:37:19 [INFO]: User authenticated: admin@supermall.com
+2026-01-17 18:37:19 [INFO]: Shop deleted (soft): TechZone
+2026-01-17 18:37:19 [INFO]: GET /api/shops
+2026-01-17 18:37:19 [INFO]: GET /api/categories
+2026-01-17 18:37:19 [INFO]: GET /api/products
+2026-01-17 18:37:19 [INFO]: GET /api/offers
+2026-01-17 18:37:19 [INFO]: GET /api/floors
+2026-01-17 18:37:19 [INFO]: Fetched 8 categories
+2026-01-17 18:37:19 [INFO]: Fetched 4 floors
+2026-01-17 18:37:19 [INFO]: Fetched 7 shops
+2026-01-17 18:37:19 [INFO]: Fetched 12 products
+2026-01-17 18:37:19 [INFO]: Fetched 4 active offers
+2026-01-17 18:37:31 [INFO]: POST /api/auth/login
+2026-01-17 18:37:31 [INFO]: User logged in successfully: admin@supermall.com
+2026-01-17 18:37:31 [INFO]: GET /api/shops
+2026-01-17 18:37:31 [INFO]: GET /api/products
+2026-01-17 18:37:31 [INFO]: GET /api/categories
+2026-01-17 18:37:31 [INFO]: GET /api/offers
+2026-01-17 18:37:31 [INFO]: GET /api/floors
+2026-01-17 18:37:31 [INFO]: Fetched 8 categories
+2026-01-17 18:37:31 [INFO]: GET /api/categories
+2026-01-17 18:37:31 [INFO]: Fetched 7 shops
+2026-01-17 18:37:31 [INFO]: GET /api/shops
+2026-01-17 18:37:31 [INFO]: Fetched 4 floors
+2026-01-17 18:37:31 [INFO]: GET /api/floors
+2026-01-17 18:37:31 [INFO]: Fetched 12 products
+2026-01-17 18:37:31 [INFO]: GET /api/products
+2026-01-17 18:37:31 [INFO]: Fetched 8 categories
+2026-01-17 18:37:31 [INFO]: Fetched 4 active offers
+2026-01-17 18:37:31 [INFO]: GET /api/offers
+2026-01-17 18:37:31 [INFO]: Fetched 4 floors
+2026-01-17 18:37:32 [INFO]: Fetched 7 shops
+2026-01-17 18:37:32 [INFO]: Fetched 12 products
+2026-01-17 18:37:32 [INFO]: Fetched 4 active offers
+2026-01-17 18:44:48 [INFO]: GET /api/floors
+2026-01-17 18:44:49 [INFO]: Fetched 4 floors
+2026-01-17 18:44:49 [INFO]: GET /api/floors
+2026-01-17 18:44:49 [INFO]: GET /api/shops?floor=6967bfa4a03911d28360a349
+2026-01-17 18:44:49 [INFO]: Fetched 4 floors
+2026-01-17 18:44:49 [INFO]: Fetched 2 shops
+2026-01-17 18:44:49 [INFO]: GET /api/shops?floor=6967bfa4a03911d28360a349
+2026-01-17 18:44:49 [INFO]: Fetched 2 shops
+2026-01-17 18:44:51 [INFO]: GET /api/categories
+2026-01-17 18:44:51 [INFO]: GET /api/shops
+2026-01-17 18:44:51 [INFO]: GET /api/products
+2026-01-17 18:44:51 [INFO]: Fetched 8 categories
+2026-01-17 18:44:51 [INFO]: GET /api/categories
+2026-01-17 18:44:51 [INFO]: Fetched 7 shops
+2026-01-17 18:44:51 [INFO]: GET /api/shops
+2026-01-17 18:44:51 [INFO]: Fetched 8 categories
+2026-01-17 18:44:51 [INFO]: Fetched 12 products
+2026-01-17 18:44:51 [INFO]: GET /api/products
+2026-01-17 18:44:51 [INFO]: Fetched 7 shops
+2026-01-17 18:44:51 [INFO]: Fetched 12 products
+2026-01-17 18:44:52 [INFO]: GET /api/categories
+2026-01-17 18:44:52 [INFO]: GET /api/floors
+2026-01-17 18:44:52 [INFO]: GET /api/shops
+2026-01-17 18:44:52 [INFO]: Fetched 8 categories
+2026-01-17 18:44:52 [INFO]: Fetched 4 floors
+2026-01-17 18:44:52 [INFO]: GET /api/categories
+2026-01-17 18:44:52 [INFO]: GET /api/floors
+2026-01-17 18:44:52 [INFO]: Fetched 7 shops
+2026-01-17 18:44:52 [INFO]: Fetched 8 categories
+2026-01-17 18:44:52 [INFO]: GET /api/shops
+2026-01-17 18:44:52 [INFO]: Fetched 4 floors
+2026-01-17 18:44:52 [INFO]: Fetched 7 shops
+2026-01-17 18:44:52 [INFO]: GET /api/shops/6967bfa4a03911d28360a354
+2026-01-17 18:44:52 [INFO]: GET /api/products?shop=6967bfa4a03911d28360a354
+2026-01-17 18:44:53 [INFO]: Fetched 2 products
+2026-01-17 18:44:53 [INFO]: GET /api/products?shop=6967bfa4a03911d28360a354
+2026-01-17 18:44:53 [INFO]: Fetched shop: SportsMart
+2026-01-17 18:44:53 [INFO]: GET /api/shops/6967bfa4a03911d28360a354
+2026-01-17 18:44:53 [INFO]: Fetched 2 products
+2026-01-17 18:44:53 [INFO]: Fetched shop: SportsMart
+2026-01-17 18:44:55 [INFO]: GET /api/categories
+2026-01-17 18:44:55 [INFO]: GET /api/shops
+2026-01-17 18:44:55 [INFO]: GET /api/offers
+2026-01-17 18:44:55 [INFO]: GET /api/products/offers
+2026-01-17 18:44:55 [INFO]: Fetched 8 categories
+2026-01-17 18:44:55 [INFO]: GET /api/categories
+2026-01-17 18:44:55 [INFO]: Fetched 8 categories
+2026-01-17 18:44:55 [INFO]: Fetched 4 active offers
+2026-01-17 18:44:55 [INFO]: GET /api/offers
+2026-01-17 18:44:55 [INFO]: Fetched 8 products with offers
+2026-01-17 18:44:55 [INFO]: Fetched 7 shops
+2026-01-17 18:44:55 [INFO]: GET /api/products/offers
+2026-01-17 18:44:55 [INFO]: GET /api/shops
+2026-01-17 18:44:55 [INFO]: Fetched 4 active offers
+2026-01-17 18:44:55 [INFO]: Fetched 7 shops
+2026-01-17 18:44:55 [INFO]: Fetched 8 products with offers
+2026-01-17 18:45:05 [INFO]: POST /api/auth/login
+2026-01-17 18:45:05 [INFO]: User logged in successfully: charu123@gmail.com
+2026-01-17 18:45:05 [INFO]: GET /api/products/offers
+2026-01-17 18:45:05 [INFO]: GET /api/shops
+2026-01-17 18:45:05 [INFO]: GET /api/categories
+2026-01-17 18:45:05 [INFO]: GET /api/offers
+2026-01-17 18:45:05 [INFO]: Fetched 8 categories
+2026-01-17 18:45:05 [INFO]: GET /api/categories
+2026-01-17 18:45:05 [INFO]: Fetched 7 shops
+2026-01-17 18:45:05 [INFO]: Fetched 8 categories
+2026-01-17 18:45:05 [INFO]: GET /api/shops
+2026-01-17 18:45:05 [INFO]: Fetched 4 active offers
+2026-01-17 18:45:05 [INFO]: Fetched 8 products with offers
+2026-01-17 18:45:05 [INFO]: GET /api/offers
+2026-01-17 18:45:05 [INFO]: GET /api/products/offers
+2026-01-17 18:45:05 [INFO]: Fetched 7 shops
+2026-01-17 18:45:05 [INFO]: Fetched 8 products with offers
+2026-01-17 18:45:05 [INFO]: Fetched 4 active offers
+2026-01-17 18:45:12 [INFO]: GET /api/categories
+2026-01-17 18:45:12 [INFO]: GET /api/shops?category=6967bfa3a03911d28360a339
+2026-01-17 18:45:12 [INFO]: GET /api/floors
+2026-01-17 18:45:12 [INFO]: Fetched 8 categories
+2026-01-17 18:45:12 [INFO]: Fetched 0 shops
+2026-01-17 18:45:12 [INFO]: Fetched 4 floors
+2026-01-17 18:45:12 [INFO]: GET /api/categories
+2026-01-17 18:45:12 [INFO]: GET /api/shops?category=6967bfa3a03911d28360a339
+2026-01-17 18:45:12 [INFO]: GET /api/floors
+2026-01-17 18:45:12 [INFO]: Fetched 8 categories
+2026-01-17 18:45:12 [INFO]: Fetched 0 shops
+2026-01-17 18:45:12 [INFO]: Fetched 4 floors
+2026-01-17 18:45:17 [INFO]: GET /api/shops?category=6967bfa3a03911d28360a339&floor=6967bfa4a03911d28360a34a
+2026-01-17 18:45:17 [INFO]: Fetched 0 shops
+2026-01-17 18:45:19 [INFO]: GET /api/shops?category=6967bfa3a03911d28360a339
+2026-01-17 18:45:19 [INFO]: Fetched 0 shops
+2026-01-17 18:45:24 [INFO]: GET /api/products/offers
+2026-01-17 18:45:24 [INFO]: GET /api/categories
+2026-01-17 18:45:24 [INFO]: GET /api/shops
+2026-01-17 18:45:24 [INFO]: GET /api/offers
+2026-01-17 18:45:24 [INFO]: Fetched 8 categories
+2026-01-17 18:45:24 [INFO]: GET /api/categories
+2026-01-17 18:45:24 [INFO]: Fetched 4 active offers
+2026-01-17 18:45:24 [INFO]: GET /api/offers
+2026-01-17 18:45:24 [INFO]: Fetched 8 categories
+2026-01-17 18:45:24 [INFO]: Fetched 7 shops
+2026-01-17 18:45:24 [INFO]: GET /api/shops
+2026-01-17 18:45:24 [INFO]: Fetched 8 products with offers
+2026-01-17 18:45:24 [INFO]: GET /api/products/offers
+2026-01-17 18:45:24 [INFO]: Fetched 4 active offers
+2026-01-17 18:45:24 [INFO]: Fetched 8 products with offers
+2026-01-17 18:45:24 [INFO]: Fetched 7 shops
+2026-01-17 18:45:26 [INFO]: GET /api/offers
+2026-01-17 18:45:27 [INFO]: Fetched 4 active offers
+2026-01-17 18:45:27 [INFO]: GET /api/offers
+2026-01-17 18:45:27 [INFO]: Fetched 4 active offers
+2026-01-17 18:45:31 [INFO]: GET /api/categories
+2026-01-17 18:45:31 [INFO]: GET /api/products/offers
+2026-01-17 18:45:31 [INFO]: GET /api/shops
+2026-01-17 18:45:31 [INFO]: GET /api/offers
+2026-01-17 18:45:31 [INFO]: Fetched 8 categories
+2026-01-17 18:45:31 [INFO]: GET /api/categories
+2026-01-17 18:45:31 [INFO]: Fetched 7 shops
+2026-01-17 18:45:31 [INFO]: GET /api/shops
+2026-01-17 18:45:31 [INFO]: Fetched 4 active offers
+2026-01-17 18:45:31 [INFO]: Fetched 8 categories
+2026-01-17 18:45:31 [INFO]: Fetched 8 products with offers
+2026-01-17 18:45:31 [INFO]: GET /api/offers
+2026-01-17 18:45:31 [INFO]: GET /api/products/offers
+2026-01-17 18:45:31 [INFO]: Fetched 7 shops
+2026-01-17 18:45:31 [INFO]: Fetched 8 products with offers
+2026-01-17 18:45:31 [INFO]: Fetched 4 active offers
+2026-01-17 18:48:18 [INFO]: POST /api/auth/login
+2026-01-17 18:48:18 [INFO]: User logged in successfully: admin@supermall.com
+2026-01-17 18:48:19 [INFO]: GET /api/shops
+2026-01-17 18:48:19 [INFO]: GET /api/products
+2026-01-17 18:48:19 [INFO]: GET /api/floors
+2026-01-17 18:48:19 [INFO]: GET /api/offers
+2026-01-17 18:48:19 [INFO]: GET /api/categories
+2026-01-17 18:48:19 [INFO]: Fetched 4 floors
+2026-01-17 18:48:19 [INFO]: Fetched 8 categories
+2026-01-17 18:48:19 [INFO]: GET /api/floors
+2026-01-17 18:48:19 [INFO]: GET /api/categories
+2026-01-17 18:48:19 [INFO]: Fetched 12 products
+2026-01-17 18:48:19 [INFO]: GET /api/products
+2026-01-17 18:48:19 [INFO]: Fetched 8 categories
+2026-01-17 18:48:19 [INFO]: Fetched 4 active offers
+2026-01-17 18:48:19 [INFO]: Fetched 7 shops
+2026-01-17 18:48:19 [INFO]: Fetched 4 floors
+2026-01-17 18:48:19 [INFO]: GET /api/offers
+2026-01-17 18:48:19 [INFO]: GET /api/shops
+2026-01-17 18:48:19 [INFO]: Fetched 12 products
+2026-01-17 18:48:19 [INFO]: Fetched 7 shops
+2026-01-17 18:48:19 [INFO]: Fetched 4 active offers
+2026-01-17 18:48:50 [INFO]: GET /api/shops
+2026-01-17 18:48:50 [INFO]: GET /api/products/offers
+2026-01-17 18:48:50 [INFO]: GET /api/categories
+2026-01-17 18:48:50 [INFO]: GET /api/offers
+2026-01-17 18:48:50 [INFO]: Fetched 8 categories
+2026-01-17 18:48:50 [INFO]: GET /api/categories
+2026-01-17 18:48:50 [INFO]: Fetched 4 active offers
+2026-01-17 18:48:50 [INFO]: Fetched 8 categories
+2026-01-17 18:48:50 [INFO]: Fetched 7 shops
+2026-01-17 18:48:50 [INFO]: Fetched 8 products with offers
+2026-01-17 18:48:50 [INFO]: GET /api/offers
+2026-01-17 18:48:50 [INFO]: GET /api/shops
+2026-01-17 18:48:50 [INFO]: GET /api/products/offers
+2026-01-17 18:48:50 [INFO]: Fetched 8 products with offers
+2026-01-17 18:48:50 [INFO]: Fetched 7 shops
+2026-01-17 18:48:50 [INFO]: Fetched 4 active offers
+2026-01-17 18:48:58 [INFO]: GET /api/offers
+2026-01-17 18:48:58 [INFO]: Fetched 4 active offers
+2026-01-17 18:48:58 [INFO]: GET /api/offers
+2026-01-17 18:48:58 [INFO]: Fetched 4 active offers
+2026-01-17 18:50:22 [INFO]: GET /api/offers
+2026-01-17 18:50:22 [INFO]: Fetched 4 active offers
+2026-01-17 18:50:22 [INFO]: GET /api/offers
+2026-01-17 18:50:22 [INFO]: Fetched 4 active offers
+2026-01-17 18:50:30 [INFO]: GET /api/offers
+2026-01-17 18:50:30 [INFO]: Fetched 4 active offers
+2026-01-17 18:50:30 [INFO]: GET /api/offers
+2026-01-17 18:50:31 [INFO]: Fetched 4 active offers
+2026-01-17 18:50:41 [INFO]: GET /api/offers
+2026-01-17 18:50:41 [INFO]: Fetched 4 active offers
+2026-01-17 18:50:41 [INFO]: GET /api/offers
+2026-01-17 18:50:41 [INFO]: Fetched 4 active offers
+2026-01-17 18:50:46 [INFO]: GET /api/shops/6967bfa4a03911d28360a352
+2026-01-17 18:50:46 [INFO]: GET /api/products?shop=6967bfa4a03911d28360a352
+2026-01-17 18:50:46 [INFO]: Fetched shop: Fashion Hub
+2026-01-17 18:50:46 [INFO]: GET /api/shops/6967bfa4a03911d28360a352
+2026-01-17 18:50:46 [INFO]: Fetched 2 products
+2026-01-17 18:50:46 [INFO]: GET /api/products?shop=6967bfa4a03911d28360a352
+2026-01-17 18:50:46 [INFO]: Fetched shop: Fashion Hub
+2026-01-17 18:50:46 [INFO]: Fetched 2 products

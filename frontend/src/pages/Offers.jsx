@@ -60,7 +60,7 @@ export default function Offers() {
               <div key={i} className="skeleton" style={{ height: "200px", borderRadius: "var(--radius-2xl)" }} />
             ))
           ) : offers.length > 0 ? (
-            offers.map((offer) => (
+            offers.map((offer, i) => (
               <div key={offer._id} className="card" style={{ overflow: "visible" }}>
                 <div
                   style={{
