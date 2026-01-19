@@ -1,7 +1,23 @@
+import { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import { FiFacebook, FiInstagram, FiTwitter, FiYoutube } from "react-icons/fi";
+import { categoriesAPI } from "../services/api";
 
 export default function Footer() {
+  const [categories, setCategories] = useState([]);
+
+  useEffect(() => {
+    const fetchCategories = async () => {
+      try {
+        const response = await categoriesAPI.getAll();
+        setCategories(response.data.data?.slice(0, 4) || []);
+      } catch (error) {
+        console.error("Error fetching categories for footer:", error);
+      }
+    };
+    fetchCategories();
+  }, []);
+
   return (
     <footer className="footer">
       <div className="container">
@@ -30,10 +46,24 @@ export default function Footer() {
           <div>
             <h4 className="footer__title">Categories</h4>
             <div className="footer__links">
-              <Link to="/shops?category=electronics" className="footer__link">Electronics</Link>
-              <Link to="/shops?category=fashion" className="footer__link">Fashion</Link>
-              <Link to="/shops?category=food" className="footer__link">Food & Dining</Link>
-              <Link to="/shops?category=sports" className="footer__link">Sports</Link>
+              {categories.length > 0 ? (
+                categories.map((category) => (
+                  <Link 
+                    key={category._id} 
+                    to={`/shops?category=${category._id}`} 
+                    className="footer__link"
+                  >
+                    {category.name}
+                  </Link>
+                ))
+              ) : (
+                <>
+                  <Link to="/shops" className="footer__link">Electronics</Link>
+                  <Link to="/shops" className="footer__link">Fashion</Link>
+                  <Link to="/shops" className="footer__link">Food & Dining</Link>
+                  <Link to="/shops" className="footer__link">Sports</Link>
+                </>
+              )}
             </div>
           </div>
 

@@ -26,3 +26,7 @@
 2026-01-17 20:15:39 [ERROR]: Get shops error: Cast to ObjectId failed for value "electronics" (type string) at path "category" for model "Shop"
 2026-01-17 20:15:39 [ERROR]: Get shops error: Cast to ObjectId failed for value "electronics" (type string) at path "category" for model "Shop"
 2026-01-17 20:15:39 [ERROR]: Get shops error: Cast to ObjectId failed for value "electronics" (type string) at path "category" for model "Shop"
+2026-01-19 18:19:19 [ERROR]: Get shops error: Cast to ObjectId failed for value "electronics" (type string) at path "category" for model "Shop"
+2026-01-19 18:19:19 [ERROR]: Get shops error: Cast to ObjectId failed for value "electronics" (type string) at path "category" for model "Shop"
+2026-01-19 18:19:25 [ERROR]: Get shops error: Cast to ObjectId failed for value "electronics" (type string) at path "category" for model "Shop"
+2026-01-19 18:19:26 [ERROR]: Get shops error: Cast to ObjectId failed for value "electronics" (type string) at path "category" for model "Shop"

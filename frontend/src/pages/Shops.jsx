@@ -22,6 +22,17 @@ export default function Shops() {
     fetchFilters();
   }, []);
 
+  // Sync state with URL params when they change (e.g. from Footer links)
+  useEffect(() => {
+    const categoryParam = searchParams.get("category") || "";
+    const floorParam = searchParams.get("floor") || "";
+    const searchParam = searchParams.get("search") || "";
+
+    if (categoryParam !== selectedCategory) setSelectedCategory(categoryParam);
+    if (floorParam !== selectedFloor) setSelectedFloor(floorParam);
+    if (searchParam !== search) setSearch(searchParam);
+  }, [searchParams]);
+
   useEffect(() => {
     fetchShops();
   }, [selectedCategory, selectedFloor, search]);
