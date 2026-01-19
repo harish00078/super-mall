@@ -2999,3 +2999,59 @@
 2026-01-19 18:35:42 [INFO]: Fetched 5 active offers
 2026-01-19 18:35:42 [INFO]: Fetched 10 products with offers
 2026-01-19 18:35:42 [INFO]: Fetched 14 shops
+2026-01-19 19:04:18 [INFO]: GET /api/products/696e2b9537a1848410aa1373
+2026-01-19 19:04:18 [INFO]: Fetched product: Chicken Whopper
+2026-01-19 19:04:18 [INFO]: GET /api/products/696e2b9537a1848410aa1373
+2026-01-19 19:04:18 [INFO]: Fetched product: Chicken Whopper
+2026-01-19 19:04:20 [INFO]: GET /api/categories
+2026-01-19 19:04:20 [INFO]: GET /api/shops
+2026-01-19 19:04:20 [INFO]: GET /api/products
+2026-01-19 19:04:20 [INFO]: Fetched 8 categories
+2026-01-19 19:04:20 [INFO]: GET /api/categories
+2026-01-19 19:04:20 [INFO]: Fetched 8 categories
+2026-01-19 19:04:20 [INFO]: Fetched 21 products
+2026-01-19 19:04:20 [INFO]: GET /api/products
+2026-01-19 19:04:20 [INFO]: Fetched 14 shops
+2026-01-19 19:04:20 [INFO]: GET /api/shops
+2026-01-19 19:04:21 [INFO]: Fetched 21 products
+2026-01-19 19:04:21 [INFO]: Fetched 14 shops
+2026-01-19 19:04:22 [INFO]: GET /api/products/696e2b9537a1848410aa1379
+2026-01-19 19:04:22 [INFO]: Fetched product: PlayStation 5
+2026-01-19 19:04:22 [INFO]: GET /api/products/696e2b9537a1848410aa1379
+2026-01-19 19:04:22 [INFO]: Fetched product: PlayStation 5
+2026-01-19 19:04:25 [INFO]: GET /api/shops/696e2b9437a1848410aa134a
+2026-01-19 19:04:25 [INFO]: GET /api/products?shop=696e2b9437a1848410aa134a
+2026-01-19 19:04:25 [INFO]: Fetched shop: ElectroWorld
+2026-01-19 19:04:25 [INFO]: GET /api/shops/696e2b9437a1848410aa134a
+2026-01-19 19:04:25 [INFO]: Fetched 4 products
+2026-01-19 19:04:25 [INFO]: GET /api/products?shop=696e2b9437a1848410aa134a
+2026-01-19 19:04:25 [INFO]: Fetched shop: ElectroWorld
+2026-01-19 19:04:25 [INFO]: Fetched 4 products
+2026-01-19 19:04:30 [INFO]: GET /api/categories
+2026-01-19 19:04:30 [INFO]: GET /api/shops
+2026-01-19 19:04:30 [INFO]: GET /api/products/offers
+2026-01-19 19:04:30 [INFO]: GET /api/offers
+2026-01-19 19:04:30 [INFO]: Fetched 8 categories
+2026-01-19 19:04:30 [INFO]: GET /api/categories
+2026-01-19 19:04:30 [INFO]: Fetched 5 active offers
+2026-01-19 19:04:30 [INFO]: Fetched 10 products with offers
+2026-01-19 19:04:30 [INFO]: Fetched 8 categories
+2026-01-19 19:04:30 [INFO]: Fetched 14 shops
+2026-01-19 19:04:30 [INFO]: GET /api/offers
+2026-01-19 19:04:30 [INFO]: GET /api/products/offers
+2026-01-19 19:04:30 [INFO]: GET /api/shops
+2026-01-19 19:04:30 [INFO]: Fetched 5 active offers
+2026-01-19 19:04:30 [INFO]: Fetched 14 shops
+2026-01-19 19:04:30 [INFO]: Fetched 10 products with offers
+2026-01-19 19:04:35 [INFO]: GET /api/products/696e2b9537a1848410aa1373
+2026-01-19 19:04:35 [INFO]: Fetched product: Chicken Whopper
+2026-01-19 19:04:35 [INFO]: GET /api/products/696e2b9537a1848410aa1373
+2026-01-19 19:04:35 [INFO]: Fetched product: Chicken Whopper
+2026-01-19 19:04:36 [INFO]: GET /api/shops/696e2b9437a1848410aa1347
+2026-01-19 19:04:36 [INFO]: GET /api/products?shop=696e2b9437a1848410aa1347
+2026-01-19 19:04:37 [INFO]: Fetched 1 products
+2026-01-19 19:04:37 [INFO]: Fetched shop: Burger King
+2026-01-19 19:04:37 [INFO]: GET /api/products?shop=696e2b9437a1848410aa1347
+2026-01-19 19:04:37 [INFO]: GET /api/shops/696e2b9437a1848410aa1347
+2026-01-19 19:04:37 [INFO]: Fetched 1 products
+2026-01-19 19:04:37 [INFO]: Fetched shop: Burger King

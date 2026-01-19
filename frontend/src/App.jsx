@@ -7,6 +7,7 @@ import Home from "./pages/Home";
 import Shops from "./pages/Shops";
 import ShopDetail from "./pages/ShopDetail";
 import Products from "./pages/Products";
+import ProductDetail from "./pages/ProductDetail";
 import Offers from "./pages/Offers";
 import OfferDetail from "./pages/OfferDetail";
 import Floors from "./pages/Floors";
@@ -27,6 +28,7 @@ export default function App() {
               <Route path="/shops" element={<Shops />} />
               <Route path="/shops/:id" element={<ShopDetail />} />
               <Route path="/products" element={<Products />} />
+              <Route path="/products/:id" element={<ProductDetail />} />
               <Route path="/offers" element={<Offers />} />
               <Route path="/offers/:id" element={<OfferDetail />} />
               <Route path="/floors" element={<Floors />} />
