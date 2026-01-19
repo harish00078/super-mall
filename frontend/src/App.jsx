@@ -8,6 +8,7 @@ import Shops from "./pages/Shops";
 import ShopDetail from "./pages/ShopDetail";
 import Products from "./pages/Products";
 import Offers from "./pages/Offers";
+import OfferDetail from "./pages/OfferDetail";
 import Floors from "./pages/Floors";
 import Login from "./pages/Login";
 import Register from "./pages/Register";
@@ -27,6 +28,7 @@ export default function App() {
               <Route path="/shops/:id" element={<ShopDetail />} />
               <Route path="/products" element={<Products />} />
               <Route path="/offers" element={<Offers />} />
+              <Route path="/offers/:id" element={<OfferDetail />} />
               <Route path="/floors" element={<Floors />} />
               <Route path="/login" element={<Login />} />
               <Route path="/register" element={<Register />} />

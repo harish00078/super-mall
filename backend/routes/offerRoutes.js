@@ -85,6 +85,7 @@ router.get("/:id", async (req, res) => {
     // Get products with this offer
     const products = await Product.find({ offer: req.params.id, isActive: true })
       .populate("category", "name")
+      .populate("shop", "name")
       .limit(10);
 
     logger.info(`Fetched offer: ${offer.title}`);
