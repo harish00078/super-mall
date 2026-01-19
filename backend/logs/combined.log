@@ -3622,3 +3622,168 @@
 2026-01-19 21:08:04 [INFO]: Fetched 5 active offers
 2026-01-19 21:08:04 [INFO]: Fetched 15 shops
 2026-01-19 21:08:04 [INFO]: Fetched 21 products
+2026-01-19 21:09:03 [INFO]: GET /api/categories
+2026-01-19 21:09:03 [INFO]: Fetched 8 categories
+2026-01-19 21:09:03 [INFO]: GET /api/categories
+2026-01-19 21:09:04 [INFO]: Fetched 8 categories
+2026-01-19 21:09:09 [INFO]: POST /api/auth/login
+2026-01-19 21:09:09 [INFO]: User logged in successfully: admin@supermall.com
+2026-01-19 21:09:09 [INFO]: GET /api/shops
+2026-01-19 21:09:09 [INFO]: GET /api/categories
+2026-01-19 21:09:09 [INFO]: GET /api/products
+2026-01-19 21:09:09 [INFO]: GET /api/floors
+2026-01-19 21:09:09 [INFO]: GET /api/offers
+2026-01-19 21:09:09 [INFO]: Fetched 8 categories
+2026-01-19 21:09:09 [INFO]: GET /api/categories
+2026-01-19 21:09:09 [INFO]: Fetched 4 floors
+2026-01-19 21:09:09 [INFO]: GET /api/floors
+2026-01-19 21:09:09 [INFO]: Fetched 15 shops
+2026-01-19 21:09:09 [INFO]: GET /api/shops
+2026-01-19 21:09:09 [INFO]: Fetched 8 categories
+2026-01-19 21:09:09 [INFO]: Fetched 21 products
+2026-01-19 21:09:09 [INFO]: Fetched 5 active offers
+2026-01-19 21:09:09 [INFO]: GET /api/products
+2026-01-19 21:09:09 [INFO]: GET /api/offers
+2026-01-19 21:09:09 [INFO]: Fetched 4 floors
+2026-01-19 21:09:09 [INFO]: Fetched 15 shops
+2026-01-19 21:09:09 [INFO]: Fetched 21 products
+2026-01-19 21:09:09 [INFO]: Fetched 5 active offers
+2026-01-19 21:09:11 [INFO]: GET /api/categories
+2026-01-19 21:09:11 [INFO]: Fetched 8 categories
+2026-01-19 21:09:11 [INFO]: GET /api/categories
+2026-01-19 21:09:11 [INFO]: Fetched 8 categories
+2026-01-19 21:09:41 [INFO]: POST /api/auth/login
+2026-01-19 21:09:41 [INFO]: User logged in successfully: admin@supermall.com
+2026-01-19 21:09:41 [INFO]: GET /api/shops
+2026-01-19 21:09:41 [INFO]: GET /api/products
+2026-01-19 21:09:41 [INFO]: GET /api/categories
+2026-01-19 21:09:41 [INFO]: GET /api/offers
+2026-01-19 21:09:41 [INFO]: GET /api/floors
+2026-01-19 21:09:42 [INFO]: Fetched 4 floors
+2026-01-19 21:09:42 [INFO]: Fetched 8 categories
+2026-01-19 21:09:42 [INFO]: GET /api/floors
+2026-01-19 21:09:42 [INFO]: GET /api/categories
+2026-01-19 21:09:42 [INFO]: Fetched 5 active offers
+2026-01-19 21:09:42 [INFO]: GET /api/offers
+2026-01-19 21:09:42 [INFO]: Fetched 15 shops
+2026-01-19 21:09:42 [INFO]: GET /api/shops
+2026-01-19 21:09:42 [INFO]: Fetched 8 categories
+2026-01-19 21:09:42 [INFO]: Fetched 21 products
+2026-01-19 21:09:42 [INFO]: GET /api/products
+2026-01-19 21:09:42 [INFO]: Fetched 4 floors
+2026-01-19 21:09:42 [INFO]: Fetched 5 active offers
+2026-01-19 21:09:42 [INFO]: Fetched 21 products
+2026-01-19 21:09:42 [INFO]: Fetched 15 shops
+2026-01-19 21:09:47 [INFO]: DELETE /api/shops/696e4fc8952f83c9dad0145b
+2026-01-19 21:09:47 [INFO]: User authenticated: admin@supermall.com
+2026-01-19 21:09:47 [INFO]: Shop deleted (soft): dev general store
+2026-01-19 21:09:47 [INFO]: GET /api/shops
+2026-01-19 21:09:47 [INFO]: GET /api/products
+2026-01-19 21:09:47 [INFO]: GET /api/categories
+2026-01-19 21:09:47 [INFO]: GET /api/offers
+2026-01-19 21:09:47 [INFO]: GET /api/floors
+2026-01-19 21:09:47 [INFO]: Fetched 4 floors
+2026-01-19 21:09:47 [INFO]: Fetched 8 categories
+2026-01-19 21:09:47 [INFO]: Fetched 5 active offers
+2026-01-19 21:09:47 [INFO]: Fetched 21 products
+2026-01-19 21:09:47 [INFO]: Fetched 14 shops
+2026-01-19 21:10:27 [INFO]: POST /api/shops
+2026-01-19 21:10:27 [INFO]: User authenticated: admin@supermall.com
+2026-01-19 21:10:27 [INFO]: Shop created: dev general store
+2026-01-19 21:10:28 [INFO]: GET /api/shops
+2026-01-19 21:10:28 [INFO]: GET /api/categories
+2026-01-19 21:10:28 [INFO]: GET /api/products
+2026-01-19 21:10:28 [INFO]: GET /api/floors
+2026-01-19 21:10:28 [INFO]: GET /api/offers
+2026-01-19 21:10:28 [INFO]: Fetched 8 categories
+2026-01-19 21:10:28 [INFO]: Fetched 4 floors
+2026-01-19 21:10:28 [INFO]: Fetched 15 shops
+2026-01-19 21:10:28 [INFO]: Fetched 21 products
+2026-01-19 21:10:28 [INFO]: Fetched 5 active offers
+2026-01-19 21:10:29 [INFO]: GET /api/categories
+2026-01-19 21:10:29 [INFO]: GET /api/shops
+2026-01-19 21:10:29 [INFO]: GET /api/offers
+2026-01-19 21:10:29 [INFO]: GET /api/products/offers
+2026-01-19 21:10:29 [INFO]: Fetched 8 categories
+2026-01-19 21:10:29 [INFO]: GET /api/categories
+2026-01-19 21:10:29 [INFO]: Fetched 10 products with offers
+2026-01-19 21:10:29 [INFO]: Fetched 5 active offers
+2026-01-19 21:10:29 [INFO]: GET /api/products/offers
+2026-01-19 21:10:29 [INFO]: GET /api/offers
+2026-01-19 21:10:29 [INFO]: Fetched 8 categories
+2026-01-19 21:10:29 [INFO]: Fetched 15 shops
+2026-01-19 21:10:29 [INFO]: GET /api/shops
+2026-01-19 21:10:30 [INFO]: Fetched 5 active offers
+2026-01-19 21:10:30 [INFO]: Fetched 10 products with offers
+2026-01-19 21:10:30 [INFO]: Fetched 15 shops
+2026-01-19 21:10:33 [INFO]: GET /api/categories
+2026-01-19 21:10:33 [INFO]: GET /api/floors
+2026-01-19 21:10:33 [INFO]: GET /api/shops
+2026-01-19 21:10:33 [INFO]: Fetched 8 categories
+2026-01-19 21:10:33 [INFO]: GET /api/categories
+2026-01-19 21:10:34 [INFO]: Fetched 4 floors
+2026-01-19 21:10:34 [INFO]: GET /api/floors
+2026-01-19 21:10:34 [INFO]: Fetched 8 categories
+2026-01-19 21:10:34 [INFO]: Fetched 15 shops
+2026-01-19 21:10:34 [INFO]: Fetched 4 floors
+2026-01-19 21:10:34 [INFO]: GET /api/shops
+2026-01-19 21:10:34 [INFO]: Fetched 15 shops
+2026-01-19 21:10:36 [INFO]: GET /api/shops?floor=696e2b9437a1848410aa1335
+2026-01-19 21:10:36 [INFO]: Fetched 4 shops
+2026-01-19 21:10:38 [INFO]: GET /api/products?shop=696e506b952f83c9dad014f8
+2026-01-19 21:10:38 [INFO]: GET /api/shops/696e506b952f83c9dad014f8
+2026-01-19 21:10:38 [INFO]: Fetched 0 products
+2026-01-19 21:10:38 [INFO]: GET /api/products?shop=696e506b952f83c9dad014f8
+2026-01-19 21:10:38 [INFO]: Fetched shop: dev general store
+2026-01-19 21:10:38 [INFO]: GET /api/shops/696e506b952f83c9dad014f8
+2026-01-19 21:10:38 [INFO]: Fetched 0 products
+2026-01-19 21:10:38 [INFO]: Fetched shop: dev general store
+2026-01-19 21:10:47 [INFO]: GET /api/shops
+2026-01-19 21:10:47 [INFO]: GET /api/products
+2026-01-19 21:10:47 [INFO]: GET /api/categories
+2026-01-19 21:10:47 [INFO]: GET /api/floors
+2026-01-19 21:10:47 [INFO]: GET /api/offers
+2026-01-19 21:10:47 [INFO]: Fetched 8 categories
+2026-01-19 21:10:47 [INFO]: Fetched 4 floors
+2026-01-19 21:10:47 [INFO]: GET /api/categories
+2026-01-19 21:10:47 [INFO]: GET /api/floors
+2026-01-19 21:10:47 [INFO]: Fetched 5 active offers
+2026-01-19 21:10:47 [INFO]: GET /api/offers
+2026-01-19 21:10:47 [INFO]: Fetched 21 products
+2026-01-19 21:10:47 [INFO]: Fetched 15 shops
+2026-01-19 21:10:47 [INFO]: Fetched 8 categories
+2026-01-19 21:10:47 [INFO]: GET /api/products
+2026-01-19 21:10:47 [INFO]: Fetched 4 floors
+2026-01-19 21:10:47 [INFO]: GET /api/shops
+2026-01-19 21:10:47 [INFO]: Fetched 5 active offers
+2026-01-19 21:10:47 [INFO]: Fetched 21 products
+2026-01-19 21:10:47 [INFO]: Fetched 15 shops
+2026-01-19 21:10:51 [INFO]: DELETE /api/shops/696e506b952f83c9dad014f8
+2026-01-19 21:10:51 [INFO]: User authenticated: admin@supermall.com
+2026-01-19 21:10:51 [INFO]: Shop deleted (soft): dev general store
+2026-01-19 21:10:51 [INFO]: GET /api/shops
+2026-01-19 21:10:51 [INFO]: GET /api/products
+2026-01-19 21:10:51 [INFO]: GET /api/categories
+2026-01-19 21:10:51 [INFO]: GET /api/floors
+2026-01-19 21:10:51 [INFO]: GET /api/offers
+2026-01-19 21:10:52 [INFO]: Fetched 4 floors
+2026-01-19 21:10:52 [INFO]: Fetched 8 categories
+2026-01-19 21:10:52 [INFO]: Fetched 14 shops
+2026-01-19 21:10:52 [INFO]: Fetched 21 products
+2026-01-19 21:10:52 [INFO]: Fetched 5 active offers
+2026-01-19 21:10:53 [INFO]: GET /api/offers
+2026-01-19 21:10:53 [INFO]: GET /api/categories
+2026-01-19 21:10:53 [INFO]: GET /api/shops
+2026-01-19 21:10:53 [INFO]: GET /api/products/offers
+2026-01-19 21:10:53 [INFO]: Fetched 8 categories
+2026-01-19 21:10:53 [INFO]: GET /api/categories
+2026-01-19 21:10:53 [INFO]: Fetched 5 active offers
+2026-01-19 21:10:53 [INFO]: Fetched 10 products with offers
+2026-01-19 21:10:53 [INFO]: Fetched 14 shops
+2026-01-19 21:10:53 [INFO]: Fetched 8 categories
+2026-01-19 21:10:53 [INFO]: GET /api/offers
+2026-01-19 21:10:53 [INFO]: GET /api/products/offers
+2026-01-19 21:10:53 [INFO]: GET /api/shops
+2026-01-19 21:10:53 [INFO]: Fetched 14 shops
+2026-01-19 21:10:53 [INFO]: Fetched 5 active offers
+2026-01-19 21:10:53 [INFO]: Fetched 10 products with offers

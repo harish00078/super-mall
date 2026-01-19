@@ -7,7 +7,7 @@ import { ShopForm, ProductForm, OfferForm } from "../components/AdminForms";
 import toast from "react-hot-toast";
 
 export default function Admin() {
-  const { user, isAdmin } = useAuth();
+  const { user, isAdmin, loading: authLoading } = useAuth();
   const navigate = useNavigate();
   const [activeTab, setActiveTab] = useState("shops");
   const [activeForm, setActiveForm] = useState(null); // 'shops', 'products', 'offers', etc.
@@ -15,9 +15,10 @@ export default function Admin() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
+    if (authLoading) return;
     if (!isAdmin()) { navigate("/login"); return; }
     fetchAllData();
-  }, []);
+  }, [authLoading]);
 
   const fetchAllData = async () => {
     try {

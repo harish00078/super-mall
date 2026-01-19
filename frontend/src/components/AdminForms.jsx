@@ -48,6 +48,14 @@ export const ShopForm = ({ onSuccess, onCancel, categories, floors }) => {
         <input type="text" required value={formData.shopNumber} onChange={e => setFormData({...formData, shopNumber: e.target.value})} className="form-input" />
       </div>
       <div className="form-group">
+        <label>Phone Number</label>
+        <input type="tel" value={formData.contactPhone} onChange={e => setFormData({...formData, contactPhone: e.target.value})} className="form-input" placeholder="+91 98765 43210" />
+      </div>
+      <div className="form-group">
+        <label>Email Address</label>
+        <input type="email" value={formData.contactEmail} onChange={e => setFormData({...formData, contactEmail: e.target.value})} className="form-input" placeholder="shop@example.com" />
+      </div>
+      <div className="form-group">
         <label>Description</label>
         <textarea value={formData.description} onChange={e => setFormData({...formData, description: e.target.value})} className="form-input" rows="3" />
       </div>
