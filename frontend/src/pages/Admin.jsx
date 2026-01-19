@@ -1,18 +1,18 @@
 import { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
-import { FiShoppingBag, FiPackage, FiTag, FiLayers, FiGrid, FiPlus, FiEdit, FiTrash2 } from "react-icons/fi";
+import { FiShoppingBag, FiPackage, FiTag, FiLayers, FiGrid, FiPlus, FiEdit, FiTrash2, FiX } from "react-icons/fi";
 import { useAuth } from "../context/AuthContext";
 import { shopsAPI, productsAPI, categoriesAPI, floorsAPI, offersAPI } from "../services/api";
+import { ShopForm, ProductForm, OfferForm } from "../components/AdminForms";
 import toast from "react-hot-toast";
 
 export default function Admin() {
   const { user, isAdmin } = useAuth();
   const navigate = useNavigate();
   const [activeTab, setActiveTab] = useState("shops");
+  const [activeForm, setActiveForm] = useState(null); // 'shops', 'products', 'offers', etc.
   const [data, setData] = useState({ shops: [], products: [], categories: [], floors: [], offers: [] });
   const [loading, setLoading] = useState(true);
-  const [showForm, setShowForm] = useState(false);
-  const [editItem, setEditItem] = useState(null);
 
   useEffect(() => {
     if (!isAdmin()) { navigate("/login"); return; }
@@ -98,6 +98,19 @@ export default function Admin() {
           </div>
         </div>
 
+        {/* Quick Actions */}
+        <div style={{ display: "flex", gap: "1rem", marginBottom: "2rem" }}>
+          <button onClick={() => setActiveForm("shops")} className="btn btn--primary">
+            <FiPlus /> Add Shop
+          </button>
+          <button onClick={() => setActiveForm("products")} className="btn btn--primary">
+            <FiPlus /> Add Product
+          </button>
+          <button onClick={() => setActiveForm("offers")} className="btn btn--primary">
+            <FiPlus /> Add Offer
+          </button>
+        </div>
+
         {/* Stats */}
         <div className="grid grid--5 mb-8" style={{ gap: "1rem" }}>
           {tabs.map((tab) => (
@@ -122,6 +135,46 @@ export default function Admin() {
         <div className="card" style={{ padding: "1.5rem" }}>
           {renderTable()}
         </div>
+
+        {/* Form Modal */}
+        {activeForm && (
+          <div className="modal-overlay">
+            <div className="modal-content">
+              <div className="modal-header">
+                <h2>Add New {activeForm.slice(0, -1)}</h2>
+                <button onClick={() => setActiveForm(null)} className="btn btn--ghost btn--sm">
+                  <FiX size={24} />
+                </button>
+              </div>
+              
+              {activeForm === "shops" && (
+                <ShopForm 
+                  categories={data.categories} 
+                  floors={data.floors}
+                  onSuccess={() => { setActiveForm(null); fetchAllData(); }}
+                  onCancel={() => setActiveForm(null)}
+                />
+              )}
+
+              {activeForm === "products" && (
+                <ProductForm 
+                  shops={data.shops}
+                  categories={data.categories}
+                  onSuccess={() => { setActiveForm(null); fetchAllData(); }}
+                  onCancel={() => setActiveForm(null)}
+                />
+              )}
+
+              {activeForm === "offers" && (
+                <OfferForm 
+                  shops={data.shops}
+                  onSuccess={() => { setActiveForm(null); fetchAllData(); }}
+                  onCancel={() => setActiveForm(null)}
+                />
+              )}
+            </div>
+          </div>
+        )}
       </div>
     </div>
   );
