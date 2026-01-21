@@ -1,6 +1,7 @@
 import axios from "axios";
 
-const API_BASE_URL = "http://localhost:5001/api";
+// const API_BASE_URL = "http://localhost:5001/api";
+const API_BASE_URL = "https://super-mall-2kx1.onrender.com/api";
 
 
 const api = axios.create({
