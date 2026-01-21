@@ -47,6 +47,15 @@ app.get("/api/health", (req, res) => {
   });
 });
 
+// Root route
+app.get("/", (req, res) => {
+  res.status(200).json({
+    success: true,
+    message: "Welcome to Super Mall API",
+    documentation: "/api/docs" // Optional: if you have docs
+  });
+});
+
 // Error handling middleware
 app.use((err, req, res, next) => {
   logger.error(`Error: ${err.message}`);

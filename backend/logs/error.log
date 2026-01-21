@@ -38,3 +38,5 @@
 2026-01-19 21:32:16 [ERROR]: Get offer error: Cast to ObjectId failed for value "[object Object]" (type string) at path "_id" for model "Offer"
 2026-01-19 21:32:49 [ERROR]: Get offer error: Cast to ObjectId failed for value "[object Object]" (type string) at path "_id" for model "Offer"
 2026-01-19 21:32:50 [ERROR]: Get offer error: Cast to ObjectId failed for value "[object Object]" (type string) at path "_id" for model "Offer"
+2026-01-21 17:58:16 [ERROR]: Get offer error: Cast to ObjectId failed for value "[object Object]" (type string) at path "_id" for model "Offer"
+2026-01-21 17:58:16 [ERROR]: Get offer error: Cast to ObjectId failed for value "[object Object]" (type string) at path "_id" for model "Offer"
