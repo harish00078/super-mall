@@ -6616,3 +6616,107 @@
 2026-01-21 18:39:26 [INFO]: Fetched 8 categories
 2026-01-21 18:39:26 [INFO]: GET /api/categories
 2026-01-21 18:39:26 [INFO]: Fetched 8 categories
+2026-01-29 23:05:46 [INFO]: Super Mall Backend running on port 5001
+2026-01-29 23:05:47 [INFO]: MongoDB connected successfully
+2026-01-29 23:06:34 [INFO]: Super Mall Backend running on port 5001
+2026-01-29 23:06:35 [INFO]: MongoDB connected successfully
+2026-01-29 23:08:42 [INFO]: Super Mall Backend running on port 5001
+2026-01-29 23:08:43 [INFO]: MongoDB connected successfully
+2026-01-29 23:10:15 [INFO]: Super Mall Backend running on port 5001
+2026-01-29 23:10:16 [INFO]: MongoDB connected successfully
+2026-01-29 23:10:31 [INFO]: GET /api/categories
+2026-01-29 23:10:31 [INFO]: Fetched 8 categories
+2026-01-29 23:10:31 [INFO]: GET /api/categories
+2026-01-29 23:10:31 [INFO]: GET /api/shops
+2026-01-29 23:10:31 [INFO]: GET /api/products/offers
+2026-01-29 23:10:31 [INFO]: GET /api/offers
+2026-01-29 23:10:31 [INFO]: Fetched 8 categories
+2026-01-29 23:10:31 [INFO]: GET /api/categories
+2026-01-29 23:10:31 [INFO]: Fetched 8 categories
+2026-01-29 23:10:31 [INFO]: Fetched 10 products with offers
+2026-01-29 23:10:31 [INFO]: GET /api/categories
+2026-01-29 23:10:31 [INFO]: GET /api/products/offers
+2026-01-29 23:10:31 [INFO]: Fetched 8 categories
+2026-01-29 23:10:31 [INFO]: Fetched 10 products with offers
+2026-01-29 23:10:32 [INFO]: Fetched 15 shops
+2026-01-29 23:10:32 [INFO]: GET /api/shops
+2026-01-29 23:10:32 [INFO]: Fetched 6 active offers
+2026-01-29 23:10:32 [INFO]: GET /api/offers
+2026-01-29 23:10:32 [INFO]: Fetched 6 active offers
+2026-01-29 23:10:32 [INFO]: Fetched 15 shops
+2026-01-29 23:10:40 [INFO]: GET /api/categories
+2026-01-29 23:10:40 [INFO]: GET /api/products/offers
+2026-01-29 23:10:40 [INFO]: GET /api/shops
+2026-01-29 23:10:40 [INFO]: GET /api/offers
+2026-01-29 23:10:40 [INFO]: Fetched 8 categories
+2026-01-29 23:10:40 [INFO]: GET /api/categories
+2026-01-29 23:10:40 [INFO]: Fetched 15 shops
+2026-01-29 23:10:40 [INFO]: GET /api/shops
+2026-01-29 23:10:40 [INFO]: Fetched 6 active offers
+2026-01-29 23:10:40 [INFO]: GET /api/offers
+2026-01-29 23:10:40 [INFO]: Fetched 8 categories
+2026-01-29 23:10:40 [INFO]: GET /api/categories
+2026-01-29 23:10:40 [INFO]: Fetched 8 categories
+2026-01-29 23:10:40 [INFO]: GET /api/categories
+2026-01-29 23:10:40 [INFO]: Fetched 15 shops
+2026-01-29 23:10:40 [INFO]: Fetched 6 active offers
+2026-01-29 23:10:40 [INFO]: Fetched 8 categories
+2026-01-29 23:10:40 [INFO]: Fetched 10 products with offers
+2026-01-29 23:10:40 [INFO]: GET /api/products/offers
+2026-01-29 23:10:41 [INFO]: Fetched 10 products with offers
+2026-01-29 23:12:03 [INFO]: Super Mall Backend running on port 5001
+2026-01-29 23:12:04 [INFO]: MongoDB connected successfully
+2026-01-29 23:12:25 [INFO]: GET /api/categories
+2026-01-29 23:12:25 [INFO]: GET /api/shops
+2026-01-29 23:12:25 [INFO]: GET /api/products/offers
+2026-01-29 23:12:25 [INFO]: GET /api/offers
+2026-01-29 23:12:25 [INFO]: Fetched 8 categories
+2026-01-29 23:12:25 [INFO]: GET /api/categories
+2026-01-29 23:12:26 [INFO]: Fetched 8 categories
+2026-01-29 23:12:27 [INFO]: GET /api/categories
+2026-01-29 23:12:27 [INFO]: Fetched 15 shops
+2026-01-29 23:12:27 [INFO]: GET /api/offers
+2026-01-29 23:12:27 [INFO]: Fetched 8 categories
+2026-01-29 23:12:27 [INFO]: Fetched 6 active offers
+2026-01-29 23:12:27 [INFO]: Fetched 10 products with offers
+2026-01-29 23:12:28 [INFO]: Fetched 6 active offers
+2026-01-29 23:12:28 [INFO]: GET /api/categories
+2026-01-29 23:12:28 [INFO]: Fetched 8 categories
+2026-01-29 23:12:28 [INFO]: GET /api/categories
+2026-01-29 23:12:28 [INFO]: GET /api/shops
+2026-01-29 23:12:28 [INFO]: GET /api/products/offers
+2026-01-29 23:12:28 [INFO]: Fetched 8 categories
+2026-01-29 23:12:28 [INFO]: GET /api/offers
+2026-01-29 23:12:28 [INFO]: GET /api/categories
+2026-01-29 23:12:28 [INFO]: Fetched 8 categories
+2026-01-29 23:12:28 [INFO]: GET /api/categories
+2026-01-29 23:12:28 [INFO]: Fetched 15 shops
+2026-01-29 23:12:28 [INFO]: Fetched 6 active offers
+2026-01-29 23:12:28 [INFO]: GET /api/shops
+2026-01-29 23:12:28 [INFO]: GET /api/offers
+2026-01-29 23:12:28 [INFO]: Fetched 8 categories
+2026-01-29 23:12:28 [INFO]: Fetched 15 shops
+2026-01-29 23:12:29 [INFO]: Fetched 6 active offers
+2026-01-29 23:12:29 [INFO]: Fetched 10 products with offers
+2026-01-29 23:12:29 [INFO]: GET /api/products/offers
+2026-01-29 23:12:29 [INFO]: Fetched 10 products with offers
+2026-01-29 23:12:34 [INFO]: GET /api/categories
+2026-01-29 23:12:34 [INFO]: GET /api/offers
+2026-01-29 23:12:34 [INFO]: GET /api/products/offers
+2026-01-29 23:12:34 [INFO]: GET /api/shops
+2026-01-29 23:12:34 [INFO]: Fetched 8 categories
+2026-01-29 23:12:34 [INFO]: GET /api/categories
+2026-01-29 23:12:34 [INFO]: Fetched 8 categories
+2026-01-29 23:12:34 [INFO]: Fetched 15 shops
+2026-01-29 23:12:34 [INFO]: GET /api/categories
+2026-01-29 23:12:34 [INFO]: Fetched 6 active offers
+2026-01-29 23:12:34 [INFO]: Fetched 10 products with offers
+2026-01-29 23:12:34 [INFO]: GET /api/shops
+2026-01-29 23:12:34 [INFO]: GET /api/offers
+2026-01-29 23:12:34 [INFO]: GET /api/products/offers
+2026-01-29 23:12:34 [INFO]: Fetched 8 categories
+2026-01-29 23:12:34 [INFO]: GET /api/categories
+2026-01-29 23:12:34 [INFO]: Fetched 8 categories
+2026-01-29 23:12:34 [INFO]: Fetched 15 shops
+2026-01-29 23:12:34 [INFO]: Fetched 6 active offers
+2026-01-29 23:12:34 [INFO]: Fetched 10 products with offers

@@ -29,7 +29,7 @@ Create a `.env` file in the `backend/` directory:
 ```env
 MONGO_URI=your_mongodb_uri
 JWT_SECRET=your_jwt_secret
-PORT=5000
+PORT=5001
 ```
 
 ### 4. Seed Database (Required for initial data)
